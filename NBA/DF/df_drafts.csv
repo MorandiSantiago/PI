@@ -1,0 +1,705 @@
+player_id,weight,wingspan,standing_reach,body_fat_pct,standing_vertical_leap,max_vertical_leap,lane_agility_time,modified_lane_agility_time,three_quarter_sprint,bench_press,player_name,season,round_number,round_pick,overall_pick,team_id,organization,organization_type
+2240,199.0,81.5,99.5,5.3,31.5,36.0,0.0,0.0,3.25,12,Gilbert Arenas,2001,2,2,30,1610612744,Arizona,College/University
+2220,188.0,81.5,99.5,9.3,30.0,37.0,10.91,0.0,3.2,6,Brandon Armstrong,2001,1,23,23,1610612745,Pepperdine,College/University
+2203,229.0,82.5,105.0,9.3,29.5,33.0,10.95,0.0,3.3,12,Shane Battier,2001,1,6,6,1610612763,Duke,College/University
+2257,245.0,88.0,111.0,6.0,26.5,31.0,11.84,0.0,3.33,6,Ruben Boumtje-Boumtje,2001,2,21,49,1610612757,Georgetown,College/University
+2214,227.0,85.5,107.0,9.3,27.0,30.0,11.11,0.0,3.35,13,Michael Bradley,2001,1,17,17,1610612761,Villanova,College/University
+2249,178.0,80.75,102.5,6.7,26.0,32.5,9.65,0.0,3.15,12,Jamison Brewer,2001,2,12,40,1610612754,Auburn,College/University
+2198,243.0,85.0,108.0,8.9,30.0,33.0,11.59,0.0,3.45,17,Kwame Brown,2001,1,1,1,1610612764,Glynn Academy,High School
+2245,202.0,83.75,104.5,6.7,32.0,37.0,11.81,0.0,3.27,6,Damone Brown,2001,2,8,36,1610612755,Syracuse,College/University
+2199,224.0,87.0,110.0,6.7,31.0,33.5,12.13,0.0,3.36,2,Tyson Chandler,2001,1,2,2,1610612746,Dominguez,High School
+2251,264.0,88.0,111.0,12.9,23.5,27.5,12.5,0.0,3.59,6,Eric Chenowith,2001,2,14,42,1610612752,Kansas,College/University
+2439,242.0,86.75,107.0,8.0,31.0,34.0,11.47,0.0,3.13,15,Sam Clancy,2002,2,16,44,1610612755,Southern California,College/University
+2215,251.0,88.5,110.0,12.9,25.5,28.5,12.1,0.0,3.54,8,Jason Collins,2001,1,18,18,1610612745,Stanford,College/University
+2260,252.0,87.0,104.0,15.2,23.0,29.0,11.65,0.0,3.6,10,Jarron Collins,2001,2,24,52,1610612762,Stanford,College/University
+2241,189.0,77.5,92.0,5.5,31.0,35.5,10.77,0.0,3.2,9,Omar Cook,2001,2,3,31,1610612753,St. John's (NY),College/University
+2201,301.0,90.5,111.0,16.5,28.0,31.0,12.25,0.0,3.53,16,Eddy Curry,2001,1,4,4,1610612741,Thornwood,High School
+2205,314.0,90.5,113.0,21.0,21.5,25.5,12.37,0.0,3.56,15,DeSagana Diop,2001,1,8,8,1610612739,Oak Hill Academy,High School
+2228,271.0,82.5,102.5,8.0,34.5,36.5,11.7,0.0,3.16,21,Alton Ford,2001,2,22,50,1610612756,Houston,College/University
+2218,193.0,78.5,100.5,0.0,26.5,33.0,11.51,0.0,3.19,10,Joseph Forte,2001,1,21,21,1610612738,North Carolina,College/University
+2204,222.0,87.0,110.0,4.0,26.5,33.0,11.77,0.0,3.21,3,Eddie Griffin,2001,1,7,7,1610612751,Seton Hall,College/University
+2239,205.0,80.0,99.5,5.3,35.5,37.5,11.57,0.0,3.29,12,Trenton Hassell,2001,2,1,29,1610612741,Austin Peay,College/University
+2213,242.0,84.25,106.0,10.5,27.0,31.5,12.25,0.0,3.35,11,Kirk Haston,2001,1,16,16,1610612766,Indiana,College/University
+2217,266.0,90.5,113.5,12.9,27.0,28.5,12.87,0.0,3.5,17,Brendan Haywood,2001,1,20,20,1610612739,North Carolina,College/University
+2212,224.0,88.0,108.0,5.3,30.5,38.5,11.99,0.0,3.15,11,Steven Hunter,2001,1,15,15,1610612753,DePaul,College/University
+2210,223.0,84.0,103.0,6.7,33.0,38.5,11.19,0.0,3.15,14,Richard Jefferson,2001,1,13,13,1610612745,Arizona,College/University
+2256,227.0,88.0,109.5,9.9,32.5,35.0,11.27,0.0,3.12,13,Ken Johnson,2001,2,20,48,1610612748,Ohio State,College/University
+2207,226.0,81.0,105.0,6.7,32.5,36.5,12.05,0.0,3.4,12,Joe Johnson,2001,1,10,10,1610612738,Arkansas,College/University
+2253,213.0,81.25,101.0,8.0,36.0,40.0,11.06,0.0,3.12,12,Sean Lampley,2001,2,16,44,1610612741,California,College/University
+2211,230.0,83.0,105.5,11.7,28.5,34.5,11.22,0.0,3.43,11,Troy Murphy,2001,1,14,14,1610612744,Notre Dame,College/University
+2202,213.0,83.5,102.5,5.3,32.5,39.5,11.75,0.0,3.12,15,Jason Richardson,2001,1,5,5,1610612744,Michigan State,College/University
+2219,194.0,82.5,103.5,6.7,29.0,34.0,11.47,0.0,3.22,1,Jeryl Sasser,2001,1,22,22,1610612753,Southern Methodist,College/University
+2243,241.0,81.75,105.5,13.6,27.0,30.5,11.75,0.0,3.47,14,Brian Scalabrine,2001,2,6,34,1610612751,Southern California,College/University
+2250,235.0,84.25,105.0,6.7,27.5,34.0,11.69,0.0,3.41,12,Bobby Simmons,2001,2,13,41,1610612760,DePaul,College/University
+2226,172.0,81.5,99.5,4.0,28.5,35.0,11.3,0.0,3.22,4,Will Solomon,2001,2,4,32,1610612763,Clemson,College/University
+2224,199.0,79.5,97.5,13.6,28.0,37.5,11.96,0.0,3.2,1,Jamaal Tinsley,2001,1,27,27,1610612763,Iowa State,College/University
+2248,184.0,78.75,97.0,4.0,32.5,37.5,10.97,0.0,3.19,4,Earl Watson,2001,2,11,39,1610612760,California-Los Angeles,College/University
+2206,243.0,83.5,104.5,9.3,27.5,33.0,12.07,0.0,3.47,16,Rodney White,2001,1,9,9,1610612765,North Carolina-Charlotte,College/University
+2254,246.0,89.5,113.0,9.3,24.5,28.0,11.83,0.0,3.48,10,Loren Woods,2001,2,17,45,1610612750,Arizona,College/University
+2754,214.0,81.0,102.0,6.7,31.5,36.5,10.7,0.0,3.19,17,Tony Allen,2004,1,25,25,1610612738,Oklahoma State,College/University
+2772,201.0,86.0,107.5,8.0,29.5,32.0,11.63,0.0,3.29,8,Trevor Ariza,2004,2,14,43,1610612752,California-Los Angeles,College/University
+101138,246.0,86.5,106.5,9.3,31.5,33.0,11.61,0.0,3.24,18,Brandon Bass,2005,2,3,33,1610612740,Louisiana State,College/University
+2740,0.0,0.0,0.0,9.3,0.0,0.0,0.0,0.0,0.0,0,Andris Biedrins,2004,1,11,11,1610612744,BK Skonto (Latvia),Other Team/Club
+2766,191.0,78.5,96.5,9.9,0.0,0.0,0.0,0.0,0.0,9,Antonio Burks,2004,2,7,36,1610612753,Memphis,College/University
+2735,196.0,83.0,105.0,9.3,29.0,36.0,11.95,0.0,3.38,11,Josh Childress,2004,1,6,6,1610612737,Stanford,College/University
+2736,220.0,84.5,108.5,6.7,27.5,31.5,11.46,0.0,3.34,5,Luol Deng,2004,1,7,7,1610612756,Duke,College/University
+2768,193.0,78.5,98.0,6.7,31.5,35.0,10.45,0.0,3.14,7,Chris Duhon,2004,2,9,38,1610612741,Duke,College/University
+2765,216.0,81.0,100.0,6.7,0.0,0.0,0.0,0.0,0.0,0,Andre Emmett,2004,2,6,35,1610612760,Texas Tech,College/University
+2784,202.0,79.5,98.5,6.0,29.0,32.0,10.97,0.0,3.1,15,Luis Flores,2004,2,26,55,1610612745,Manhattan,College/University
+2782,234.0,85.0,108.5,10.8,29.5,31.0,11.15,0.0,3.25,13,Matt Freije,2004,2,24,53,1610612748,Vanderbilt,College/University
+101155,248.0,86.0,106.5,0.0,26.5,30.5,12.49,0.0,3.24,9,Ryan Gomes,2005,2,20,50,1610612738,Providence,College/University
+2732,192.0,80.5,99.0,5.3,31.5,37.5,11.28,0.0,3.19,12,Ben Gordon,2004,1,3,3,1610612741,Connecticut,College/University
+2734,170.0,79.5,98.5,5.3,30.5,37.0,11.03,0.0,3.19,5,Devin Harris,2004,1,5,5,1610612764,Wisconsin,College/University
+2730,240.0,88.5,111.5,10.5,30.5,35.5,11.21,0.0,3.14,7,Dwight Howard,2004,1,1,1,1610612753,Southwest Atlanta Christian Academy,High School
+2743,238.0,84.5,106.5,6.7,29.5,36.0,11.33,0.0,3.2,22,Kris Humphries,2004,1,14,14,1610612762,Minnesota,College/University
+2738,217.0,83.0,105.5,6.7,30.5,34.5,11.17,0.0,3.18,4,Andre Iguodala,2004,1,9,9,1610612755,Arizona,College/University
+2739,212.0,80.5,103.0,8.0,26.5,36.0,11.1,0.0,3.24,13,Luke Jackson,2004,1,10,10,1610612739,Oregon,College/University
+2744,263.0,86.5,110.0,10.5,28.5,30.0,13.08,0.0,3.29,3,Al Jefferson,2004,1,15,15,1610612738,Prentiss,High School
+2778,244.0,84.0,109.5,10.5,0.0,0.0,0.0,0.0,0.0,0,Sergei Lishouk,2004,2,20,49,1610612763,Miami (FL),College/University
+2733,186.0,83.0,105.5,6.7,26.5,30.0,10.72,0.0,3.23,0,Shaun Livingston,2004,1,4,4,1610612746,Peoria,High School
+2777,198.0,79.0,101.5,8.0,27.5,33.0,10.94,0.0,3.1,13,Ricky Minard,2004,2,19,48,1610612758,Morehead State,College/University
+2749,199.0,74.5,95.0,8.0,28.5,33.5,10.95,0.0,3.14,15,Jameer Nelson,2004,1,20,20,1610612743,Saint Joseph's,College/University
+2731,257.0,88.0,110.5,5.3,31.5,34.0,12.32,0.0,3.15,22,Emeka Okafor,2004,1,2,2,1610612766,Connecticut,College/University
+2773,207.0,79.5,100.5,6.0,0.0,0.0,0.0,0.0,0.0,0,Tim Pickett,2004,2,15,44,1610612740,Florida State,College/University
+2762,266.0,89.5,111.5,6.7,24.0,26.5,12.61,0.0,3.6,2,Peter John Ramos,2004,2,3,32,1610612764,Criollos de Caguas (Puerto Rico),Other Team/Club
+101160,233.0,81.5,106.5,9.3,27.5,33.0,12.52,0.0,3.3,18,Lawrence Roberts,2005,2,25,55,1610612760,Mississippi,College/University
+2774,208.0,82.0,102.0,6.0,28.5,34.5,10.91,0.0,3.17,14,Bernard Robinson,2004,2,16,45,1610612766,Michigan,College/University
+101126,181.0,73.0,91.5,6.7,35.5,43.5,10.75,0.0,2.96,13,Nate Robinson,2005,1,21,21,1610612756,Washington,College/University
+2781,204.0,83.0,102.5,6.0,31.5,35.5,11.27,0.0,3.18,8,Romain Sato,2004,2,23,52,1610612759,Xavier,College/University
+2746,221.0,84.0,106.5,6.7,32.5,39.5,11.43,0.0,3.24,12,Josh Smith,2004,1,17,17,1610612737,Oak Hill Academy,High School
+2747,227.0,82.0,104.0,6.7,29.0,35.5,10.93,0.0,3.21,5,JR Smith,2004,1,18,18,1610612740,Saint Benedict's Preparatory School,High School
+2745,228.0,81.0,104.0,9.3,30.0,35.0,10.79,0.0,3.13,19,Kirk Snyder,2004,1,16,16,1610612762,Nevada-Reno,College/University
+2776,233.0,86.0,108.5,9.3,28.0,31.5,12.13,0.0,3.27,18,Pape Sow,2004,2,18,47,1610612748,Cal State-Fullerton,College/University
+2757,199.0,76.5,98.0,9.3,0.0,0.0,0.0,0.0,0.0,2,Beno Udrih,2004,1,28,28,1610612759,Olimpia Milano (Italy),Other Team/Club
+2761,226.0,84.0,105.5,6.7,29.5,33.5,10.75,0.0,3.25,12,Jackson Vroman,2004,2,2,31,1610612741,Iowa State,College/University
+2753,183.0,78.0,99.5,6.7,30.0,35.0,11.2,0.0,3.15,12,Delonte West,2004,1,24,24,1610612738,Saint Joseph's,College/University
+101165,183.0,84.0,102.5,0.0,28.0,32.0,11.67,0.0,3.35,11,Alex Acker,2005,2,30,60,1610612765,Pepperdine,College/University
+101149,227.8,83.25,112.5,0.0,24.0,27.5,11.94,0.0,3.42,0,Martynas Andriuskevicius,2005,2,14,44,1610612753,BC Zalgiris (Lithuania),Other Team/Club
+101106,250.6,87.0,110.5,0.0,27.5,33.5,12.06,0.0,3.51,13,Andrew Bogut,2005,1,1,1,1610612749,Utah,College/University
+200793,179.0,74.0,94.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Dee Brown,2006,2,16,46,1610612762,Illinois,College/University
+101143,165.2,71.75,93.5,0.0,24.5,31.0,10.85,0.0,3.26,1,Travis Diener,2005,2,8,38,1610612753,Marquette,College/University
+101113,255.4,87.5,109.0,0.0,28.0,31.0,11.94,0.0,3.45,21,Ike Diogu,2005,1,9,9,1610612744,Arizona State,College/University
+101145,176.6,74.75,98.0,0.0,26.5,31.5,12.13,0.0,3.31,0,Monta Ellis,2005,2,10,40,1610612744,Lanier,High School
+101109,199.4,76.25,98.0,0.0,29.0,33.5,10.5,0.0,3.06,6,Raymond Felton,2005,1,5,5,1610612766,North Carolina,College/University
+201164,172.0,79.5,101.5,0.0,26.5,35.5,10.48,0.0,3.33,0,Rudy Fernandez,2007,1,24,24,1610612756,Joventut Badalona (Spain),Other Team/Club
+101112,243.6,86.5,110.5,0.0,27.5,31.0,11.6,0.0,3.38,19,Channing Frye,2005,1,8,8,1610612752,Arizona,College/University
+101128,189.6,82.75,103.0,0.0,27.5,31.5,10.63,0.0,3.33,5,Francisco Garcia,2005,1,23,23,1610612758,Louisville,College/University
+101162,225.2,87.5,110.0,0.0,29.5,36.0,11.48,0.0,3.33,18,Marcin Gortat,2005,2,27,57,1610612756,Koln 99ers (Germany),Other Team/Club
+101121,216.6,80.0,104.0,0.0,30.0,36.0,10.62,0.0,3.05,26,Joey Graham,2005,1,16,16,1610612761,Oklahoma State,College/University
+101122,225.4,85.5,103.0,0.0,31.0,34.0,10.84,0.0,3.34,10,Danny Granger,2005,1,17,17,1610612754,New Mexico,College/University
+101123,192.0,81.75,104.0,0.0,31.5,39.0,11.2,0.0,3.21,7,Gerald Green,2005,1,18,18,1610612738,Gulf Shores Academy,High School
+101129,178.8,77.25,98.5,0.0,31.5,38.5,11.12,0.0,3.21,14,Luther Head,2005,1,24,24,1610612745,Illinois,College/University
+101125,202.2,84.5,107.5,0.0,24.5,29.0,10.89,0.0,3.18,14,Julius Hodge,2005,1,20,20,1610612743,North Carolina State,College/University
+101141,208.8,85.25,109.5,0.0,22.0,30.0,11.59,0.0,3.56,2,Ersan Ilyasova,2005,2,6,36,1610612749,Ulkerspor (Turkey),Other Team/Club
+101127,197.6,79.5,100.0,0.0,26.0,28.5,10.87,0.0,3.24,5,Jarrett Jack,2005,1,22,22,1610612743,Georgia Tech,College/University
+101135,229.5,84.0,106.5,0.0,30.5,32.5,10.8,0.0,3.19,14,David Lee,2005,1,30,30,1610612752,Florida,College/University
+101131,257.6,87.25,107.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Jason Maxiell,2005,1,26,26,1610612765,Cincinnati,College/University
+101118,258.8,85.25,105.0,0.0,30.0,33.0,11.04,0.0,3.29,12,Sean May,2005,1,13,13,1610612766,North Carolina,College/University
+101119,201.0,82.75,103.5,0.0,32.5,34.5,10.39,0.0,3.11,15,Rashad McCants,2005,1,14,14,1610612750,North Carolina,College/University
+101108,178.0,76.25,93.0,0.0,32.0,38.0,11.09,0.0,3.22,10,Chris Paul,2005,1,4,4,1610612740,Wake Forest,College/University
+201575,211.4,83.25,104.5,0.0,32.5,35.0,11.33,0.0,3.31,0,Brandon Rush,2008,1,13,13,1610612757,Kansas,College/University
+101134,255.8,84.0,107.0,0.0,27.0,27.5,11.05,0.0,3.35,11,Wayne Simien,2005,1,29,29,1610612748,Kansas,College/University
+101147,261.0,85.75,109.0,0.0,28.5,33.0,11.26,0.0,3.27,14,Chris Taft,2005,2,12,42,1610612744,Pittsburgh,College/University
+101159,195.8,81.75,105.5,0.0,0.0,0.0,0.0,0.0,0.0,0,Dijon Thompson,2005,2,24,54,1610612752,California-Los Angeles,College/University
+101142,237.8,85.5,106.5,0.0,30.5,33.0,11.5,0.0,3.23,15,Ronny Turiaf,2005,2,7,37,1610612747,Gonzaga,College/University
+101111,236.6,84.25,109.0,0.0,26.0,31.0,10.86,0.0,3.3,11,Charlie Villanueva,2005,1,7,7,1610612761,Connecticut,College/University
+101124,215.0,86.0,108.0,0.0,33.0,38.0,0.0,0.0,3.22,11,Hakim Warrick,2005,1,19,19,1610612763,Syracuse,College/University
+101110,229.6,83.0,106.0,0.0,28.0,30.5,11.39,0.0,3.39,7,Martell Webster,2005,1,6,6,1610612757,Seattle Preparatory School,High School
+101156,269.4,86.0,108.0,0.0,28.5,33.5,12.11,0.0,3.25,15,Robert Whaley,2005,2,21,51,1610612762,Walsh,College/University
+101107,228.2,87.5,108.0,0.0,29.5,35.0,11.11,0.0,3.17,12,Marvin Williams,2005,1,2,2,1610612737,North Carolina,College/University
+101114,202.4,78.25,98.0,0.0,30.0,35.0,10.83,0.0,3.25,15,Deron Williams,2005,1,3,3,1610612762,Illinois,College/University
+101120,202.6,80.75,104.5,0.0,26.5,29.5,11.45,0.0,3.41,12,Antoine Wright,2005,1,15,15,1610612751,Texas A&M,College/University
+101152,186.8,82.0,100.5,0.0,30.0,36.0,11.58,0.0,3.27,8,Bracey Wright,2005,2,17,47,1610612750,Indiana,College/University
+201147,185.0,80.25,103.0,4.2,30.5,36.5,11.69,0.0,3.22,11,Corey Brewer,2007,1,7,7,1610612750,Florida,College/University
+201166,161.0,76.0,94.0,2.7,32.5,39.5,10.57,0.0,3.2,6,Aaron Brooks,2007,1,26,26,1610612745,Oregon,College/University
+201144,175.0,77.75,94.5,4.2,35.5,40.5,11.63,0.0,3.09,13,Mike Conley,2007,1,4,4,1610612763,Ohio State,College/University
+201161,203.0,80.25,101.5,7.0,30.0,34.5,11.12,0.0,3.22,4,Daequan Cook,2007,1,21,21,1610612755,Ohio State,College/University
+201159,194.0,77.5,98.0,4.5,32.5,38.0,11.6,0.0,3.32,11,Javaris Crittenton,2007,1,19,19,1610612747,Georgia Tech,College/University
+201176,230.0,88.0,109.5,6.9,27.0,30.0,12.63,0.0,3.53,7,Jermareo Davidson,2007,2,6,36,1610612744,Alabama,College/University
+201162,219.0,79.0,102.0,7.1,28.0,32.0,11.32,0.0,3.45,14,Jared Dudley,2007,1,22,22,1610612766,Boston College,College/University
+201142,215.0,88.75,110.0,6.6,26.0,33.5,12.33,0.0,3.45,0,Kevin Durant,2007,1,2,2,1610612760,Texas,College/University
+201189,271.0,87.25,108.5,10.8,27.0,32.5,12.07,0.0,3.7,17,Aaron Gray,2007,2,19,49,1610612741,Pittsburgh,College/University
+201145,228.0,85.25,103.0,3.7,33.5,38.0,12.0,0.0,3.34,17,Jeff Green,2007,1,5,5,1610612738,Georgetown,College/University
+201192,173.0,74.25,96.0,4.6,29.0,32.5,11.3,0.0,3.26,8,Taurean Green,2007,2,22,52,1610612757,Florida,College/University
+201150,244.0,84.5,110.0,13.0,26.0,29.0,11.88,0.0,3.51,9,Spencer Hawes,2007,1,10,10,1610612758,Washington,College/University
+201195,232.0,86.25,108.5,5.6,30.5,34.0,12.31,0.0,3.39,15,Herbert Hill,2007,2,25,55,1610612762,Providence,College/University
+201143,246.0,84.75,107.0,9.1,31.0,35.5,12.15,0.0,3.37,20,Al Horford,2007,1,3,3,1610612737,Florida,College/University
+201185,183.0,72.0,94.0,7.0,24.5,28.5,11.02,0.0,3.39,6,Jared Jordan,2007,2,15,45,1610612746,Marist,College/University
+201171,248.0,83.0,102.5,7.5,31.5,36.5,11.35,0.0,3.29,21,Carl Landry,2007,2,1,31,1610612760,Purdue,College/University
+201186,213.0,86.0,107.0,4.9,29.5,36.0,11.73,0.0,3.22,17,Stephane Lasme,2007,2,16,46,1610612744,Massachusetts,College/University
+201151,186.0,78.5,98.0,5.6,29.0,34.0,11.0,0.0,3.22,8,Acie Law,2007,1,11,11,1610612737,Texas A&M,College/University
+201187,220.0,82.5,104.0,4.7,28.5,34.5,10.95,0.0,3.25,12,Dominic McGuire,2007,2,17,47,1610612764,Fresno State,College/University
+201177,240.0,85.0,106.5,13.7,27.5,31.5,11.7,0.0,3.47,12,Josh McRoberts,2007,2,7,37,1610612757,Duke,College/University
+201197,218.0,83.0,105.0,8.3,27.0,31.5,11.87,0.0,3.49,7,Sammy Mejia,2007,2,27,57,1610612765,DePaul,College/University
+201193,211.0,84.25,105.0,6.2,28.5,32.5,10.39,0.0,3.38,16,Demetris Nichols,2007,2,23,53,1610612757,Syracuse,College/University
+201149,223.0,85.25,106.5,4.8,32.5,37.5,11.79,0.0,3.47,12,Joakim Noah,2007,1,9,9,1610612741,Florida,College/University
+201141,257.0,88.25,112.0,7.8,32.0,34.0,11.67,0.0,3.27,0,Greg Oden,2007,1,1,1,1610612757,Ohio State,College/University
+201181,252.0,88.5,110.5,7.5,26.5,30.5,11.39,0.0,3.29,15,Chris Richard,2007,2,11,41,1610612750,Florida,College/University
+201196,185.0,76.25,97.5,6.2,29.5,33.5,11.65,0.0,3.27,8,Ramon Sessions,2007,2,26,56,1610612749,Nevada-Reno,College/University
+201160,233.0,82.75,106.0,7.5,33.5,37.5,10.96,0.0,3.29,15,Jason Smith,2007,1,20,20,1610612748,Colorado State,College/University
+201199,199.0,78.5,101.0,4.5,28.5,35.0,10.87,0.0,3.14,21,DJ Strawberry,2007,2,29,59,1610612756,Maryland,College/University
+201155,207.0,79.25,100.5,6.1,30.5,35.0,11.34,0.0,3.11,14,Rodney Stuckey,2007,1,15,15,1610612765,Eastern Washington,College/University
+201180,212.0,81.0,105.0,5.1,29.0,34.0,10.68,0.0,3.45,9,Sun Sun,2007,2,10,40,1610612747,Beijing Olympians (China),Other Team/Club
+201154,221.0,85.0,104.0,5.8,35.0,41.0,11.96,0.0,3.16,9,Al Thornton,2007,1,14,14,1610612746,Florida State,College/University
+201153,211.0,86.25,108.0,6.1,28.5,33.5,11.48,0.0,3.36,2,Julian Wright,2007,1,13,13,1610612740,Kansas,College/University
+201148,200.0,87.75,108.5,5.8,30.5,35.5,11.76,0.0,3.31,2,Brandan Wright,2007,1,8,8,1610612766,North Carolina,College/University
+201146,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Yi Jianlian,2007,1,6,6,1610612749,Guangdong Southern Tigers (China),Other Team/Club
+201156,206.0,84.0,100.5,6.8,39.5,40.5,11.0,0.0,3.25,6,Nick Young,2007,1,16,16,1610612764,Southern California,College/University
+201152,210.0,83.5,106.0,4.9,34.5,37.0,11.06,0.0,3.19,13,Thaddeus Young,2007,1,12,12,1610612755,Georgia Tech,College/University
+201570,220.0,83.5,106.0,5.8,32.5,38.5,11.33,0.0,2.99,24,Joe Alexander,2008,1,8,8,1610612749,West Virginia,College/University
+201589,216.0,82.75,107.0,7.3,28.5,30.0,12.18,0.0,3.14,12,Darrell Arthur,2008,1,27,27,1610612740,Kansas,College/University
+201571,171.5,75.5,94.5,8.1,28.5,35.0,11.27,0.0,3.07,2,D.J. Augustin,2008,1,9,9,1610612766,Texas,College/University
+201573,204.0,75.5,97.0,4.7,31.0,38.0,11.26,0.0,3.07,10,Jerryd Bayless,2008,1,11,11,1610612754,Arizona,College/University
+201563,239.0,84.25,107.0,7.7,30.0,35.0,11.06,0.0,3.24,19,Michael Beasley,2008,1,2,2,1610612748,Kansas State,College/University
+201595,265.0,85.75,107.0,9.0,27.5,33.0,11.84,0.0,3.2,19,Joey Dorsey,2008,2,3,33,1610612757,Memphis,College/University
+201607,224.0,84.25,97.5,9.4,35.0,42.0,11.77,0.0,3.43,2,Patrick Ewing,2008,2,13,43,1610612758,Georgetown,College/University
+201592,208.0,83.25,103.0,5.4,0.0,0.0,0.0,0.0,0.0,10,J.R. Giddens,2008,1,30,30,1610612738,New Mexico,College/University
+201569,222.0,81.0,99.0,8.2,32.0,40.0,10.81,0.0,3.01,15,Eric Gordon,2008,1,7,7,1610612746,Indiana,College/University
+201590,221.0,82.0,108.0,7.6,27.5,31.5,11.21,0.0,3.2,2,Donte Greene,2008,1,28,28,1610612763,Syracuse,College/University
+201612,204.0,81.0,103.5,6.9,30.5,38.0,11.33,0.0,3.08,13,Malik Hairston,2008,2,18,48,1610612756,Oregon,College/University
+201614,235.0,87.0,109.5,5.8,29.5,32.0,11.49,0.0,3.33,20,DeVon Hardin,2008,2,20,50,1610612760,California,College/University
+201613,250.0,87.0,108.0,9.2,26.5,28.0,10.62,0.0,3.27,13,Richard Hendrix,2008,2,19,49,1610612744,Alabama,College/University
+201588,181.0,81.0,97.5,3.0,34.0,37.5,12.2,0.0,3.07,9,George Hill,2008,1,26,26,1610612759,IUPUI,College/University
+201991,196.0,80.75,98.5,3.4,30.5,36.0,11.15,0.0,3.16,12,Lester Hudson,2009,2,28,58,1610612738,Tennessee-Martin,College/University
+201616,240.5,83.25,106.5,12.5,27.0,31.0,11.75,0.0,3.26,11,Darnell Jackson,2008,2,22,52,1610612748,Kansas,College/University
+201599,250.0,90.0,113.5,7.5,26.0,30.5,12.3,0.0,3.27,8,DeAndre Jordan,2008,2,5,35,1610612746,Texas A&M,College/University
+201572,258.0,89.5,113.0,6.3,27.5,30.5,12.77,0.0,3.57,7,Brook Lopez,2008,1,10,10,1610612751,Stanford,College/University
+201567,255.0,83.25,106.0,12.9,29.5,35.0,11.17,0.0,3.22,18,Kevin Love,2008,1,5,5,1610612763,California-Los Angeles,College/University
+201564,200.0,78.0,99.5,6.3,30.5,41.0,11.04,0.0,3.14,7,O.J. Mayo,2008,1,3,3,1610612750,Southern California,College/University
+201601,221.0,86.5,103.5,7.0,32.0,38.5,11.71,0.0,3.17,11,Luc Mbah a Moute,2008,2,7,37,1610612749,California-Los Angeles,College/University
+201580,241.0,90.0,114.5,5.3,27.0,32.5,12.75,0.0,3.25,7,JaVale McGee,2008,1,18,18,1610612764,Nevada-Reno,College/University
+201576,197.0,87.0,109.0,4.7,29.0,35.0,11.86,0.0,3.26,7,Anthony Randolph,2008,1,14,14,1610612744,Louisiana State,College/University
+201565,196.0,80.0,98.5,4.6,34.5,40.0,11.69,0.0,3.05,10,Derrick Rose,2008,1,1,1,1610612741,Memphis,College/University
+201606,183.8,76.5,95.0,4.2,26.0,0.0,0.0,0.0,0.0,18,Sean Singletary,2008,2,12,42,1610612758,Virginia,College/University
+201446,166.2,79.25,98.0,3.8,31.0,39.0,10.98,0.0,3.08,2,Mike Taylor,2008,2,25,55,1610612757,Idaho Stampede (D-League),Other Team/Club
+201622,198.5,81.0,102.5,7.2,34.0,40.0,11.03,0.0,3.09,7,Deron Washington,2008,2,29,59,1610612765,Virginia Tech,College/University
+201603,193.0,82.0,104.0,4.4,29.0,36.5,10.58,0.0,2.96,12,Sonny Weems,2008,2,9,39,1610612741,Arkansas,College/University
+201566,192.0,79.75,100.0,4.8,30.0,36.5,10.98,0.0,3.08,12,Russell Westbrook,2008,1,4,4,1610612760,California-Los Angeles,College/University
+199,199.0,81.25,103.0,5.3,31.5,36.5,11.32,0.0,3.07,15,Reggie Williams,1987,1,4,4,1610612746,Georgetown,College/University
+201965,239.6,85.0,107.0,5.5,31.0,35.0,11.98,0.0,3.14,15,Jeff Ayres,2009,2,1,31,1610612758,Arizona State,College/University
+201958,182.4,81.75,100.0,7.9,29.5,39.0,10.49,0.0,3.15,3,Rodrigue Beaubois,2009,1,25,25,1610612760,Cholet Basket (France),Other Team/Club
+201971,276.6,86.0,106.5,12.0,26.0,33.0,11.5,0.0,3.45,18,DeJuan Blair,2009,2,7,37,1610612759,Pittsburgh,College/University
+201974,224.6,86.5,107.5,8.6,30.5,35.5,11.26,0.0,3.13,20,Derrick Brown,2009,2,10,40,1610612766,Xavier,College/University
+201978,206.4,79.0,101.0,10.0,29.5,38.5,11.08,0.0,3.24,10,Chase Budinger,2009,2,14,44,1610612765,Arizona,College/University
+201960,207.2,82.0,105.0,6.3,0.0,0.0,0.0,0.0,0.0,0,DeMarre Carroll,2009,1,27,27,1610612763,Missouri,College/University
+201956,211.2,81.25,106.5,8.6,25.5,32.5,11.15,0.0,3.28,2,Omri Casspi,2009,1,23,23,1610612758,Maccabi Tel Aviv B.C. (Israel),Other Team/Club
+201947,228.4,86.5,109.5,5.2,28.5,33.0,11.17,0.0,3.35,5,Earl Clark,2009,1,14,14,1610612756,Louisville,College/University
+201954,166.2,75.0,96.5,5.7,30.5,33.5,10.45,0.0,3.1,9,Darren Collison,2009,1,21,21,1610612740,California-Los Angeles,College/University
+201967,227.4,83.0,106.5,4.8,28.0,35.0,11.18,0.0,3.26,18,Dante Cunningham,2009,2,3,33,1610612757,Villanova,College/University
+201939,181.0,75.5,97.0,5.7,29.5,35.5,11.07,0.0,3.28,10,Stephen Curry,2009,1,7,7,1610612744,Davidson,College/University
+201948,191.8,86.75,110.0,5.5,25.0,28.0,12.11,0.0,3.55,0,Austin Daye,2009,1,15,15,1610612765,Gonzaga,College/University
+201942,211.2,81.0,102.5,4.9,29.0,38.5,11.88,0.0,3.31,5,DeMar DeRozan,2009,1,9,9,1610612761,Southern California,College/University
+201962,183.4,78.0,97.5,5.2,28.0,32.5,10.63,0.0,3.03,15,Toney Douglas,2009,1,29,29,1610612747,Florida State,College/University
+201961,202.4,78.5,100.0,5.5,31.5,38.0,11.14,0.0,3.2,13,Wayne Ellington,2009,1,28,28,1610612750,North Carolina,College/University
+201936,220.6,83.25,104.0,7.1,28.5,34.0,11.81,0.0,3.17,7,Tyreke Evans,2009,1,4,4,1610612758,Memphis,College/University
+201938,195.6,76.0,95.5,6.3,33.0,40.0,10.86,0.0,3.23,10,Jonny Flynn,2009,1,6,6,1610612750,Syracuse,College/University
+201959,214.4,88.0,109.0,6.6,25.5,30.0,11.56,0.0,3.41,12,Taj Gibson,2009,1,26,26,1610612741,Southern California,College/University
+201980,208.0,82.0,103.0,5.6,29.0,33.0,11.3,0.0,3.3,15,Danny Green,2009,2,16,46,1610612739,North Carolina,College/University
+201933,248.4,83.25,105.0,8.2,32.0,35.5,10.95,0.0,3.28,22,Blake Griffin,2009,1,1,1,1610612746,Oklahoma,College/University
+201946,234.2,83.5,106.0,8.5,27.5,34.0,11.12,0.0,3.27,18,Tyler Hansbrough,2009,1,13,13,1610612754,North Carolina,College/University
+201935,222.0,82.75,103.5,10.1,31.5,37.0,11.1,0.0,3.13,17,James Harden,2009,1,3,3,1610612760,Arizona State,College/University
+201945,214.6,82.25,102.5,4.4,31.5,35.0,11.17,0.0,3.14,8,Gerald Henderson,2009,1,12,12,1610612766,Duke,College/University
+201941,232.4,85.5,108.0,6.0,31.0,35.0,12.23,0.0,3.3,11,Jordan Hill,2009,1,8,8,1610612752,Arizona,College/University
+201950,199.0,79.0,100.5,6.3,28.5,34.0,10.64,0.0,3.21,6,Jrue Holiday,2009,1,17,17,1610612755,California-Los Angeles,College/University
+201949,257.2,84.75,105.5,12.0,30.5,35.0,11.21,0.0,3.23,18,James Johnson,2009,1,16,16,1610612741,Wake Forest,College/University
+201951,196.6,72.75,94.5,6.6,29.0,36.5,10.98,0.0,3.12,14,Ty Lawson,2009,1,18,18,1610612750,North Carolina,College/University
+201953,163.6,74.5,97.0,5.4,28.5,31.5,10.78,0.0,3.19,8,Eric Maynor,2009,1,20,20,1610612762,Virginia Commonwealth,College/University
+201975,211.4,76.5,98.0,8.0,28.5,37.0,10.96,0.0,3.1,14,Jodie Meeks,2009,2,11,41,1610612749,Kentucky,College/University
+201988,175.4,74.0,95.0,6.9,27.5,33.0,10.87,0.0,3.1,8,Patty Mills,2009,2,25,55,1610612757,St. Mary's (CA),College/University
+201957,258.2,85.5,111.0,8.5,28.5,32.5,11.1,0.0,3.45,10,Byron Mullens,2009,1,24,24,1610612742,Ohio State,College/University
+201985,192.8,75.75,97.0,12.4,26.0,31.0,10.99,0.0,3.22,11,AJ Price,2009,2,22,52,1610612754,Connecticut,College/University
+201969,243.0,84.75,106.5,6.6,29.5,34.5,10.94,0.0,3.17,15,DaJuan Summers,2009,2,5,35,1610612765,Georgetown,College/University
+201966,207.4,80.75,101.0,5.8,34.0,37.5,11.54,0.0,3.32,16,Jermaine Taylor,2009,2,2,32,1610612764,Central Florida,College/University
+201952,175.2,79.5,98.5,4.5,30.5,36.5,11.05,0.0,3.18,13,Jeff Teague,2009,1,19,19,1610612737,Wake Forest,College/University
+201934,267.2,90.25,113.0,6.7,0.0,0.0,0.0,0.0,0.0,0,Hasheem Thabeet,2009,1,2,2,1610612763,Connecticut,College/University
+201977,194.4,77.0,99.0,4.8,31.0,33.0,10.73,0.0,3.28,14,Marcus Thornton,2009,2,13,43,1610612748,Louisiana State,College/University
+201944,213.2,81.0,103.5,5.1,30.5,37.0,11.15,0.0,3.18,9,Terrence Williams,2009,1,11,11,1610612751,Louisville,College/University
+201970,222.8,82.75,105.5,4.9,27.5,33.0,11.47,0.0,3.45,0,Sam Young,2009,2,6,36,1610612763,Pittsburgh,College/University
+202374,237.4,89.0,113.0,5.0,22.5,26.0,13.2,0.0,3.68,10,Solomon Alabi,2010,2,20,50,1610612742,Florida State,College/University
+202332,236.0,88.75,111.5,8.5,23.0,28.0,11.48,0.0,3.35,10,Cole Aldrich,2010,1,11,11,1610612740,Kansas,College/University
+202329,216.0,87.25,108.5,8.2,27.0,33.5,11.29,0.0,3.3,13,Al-Farouq Aminu,2010,1,8,8,1610612746,Wake Forest,College/University
+202341,207.6,80.5,104.0,7.9,30.0,35.5,11.86,0.0,3.19,14,James Anderson,2010,1,20,20,1610612759,Oklahoma State,College/University
+202337,217.8,83.25,104.5,5.6,29.5,37.5,10.98,0.0,3.4,15,Luke Babbitt,2010,1,16,16,1610612750,Nevada-Reno,College/University
+202339,191.6,79.5,98.0,5.6,0.0,0.0,0.0,0.0,0.0,9,Eric Bledsoe,2010,1,18,18,1610612760,Kentucky,College/University
+202344,235.8,81.75,106.0,7.3,31.0,36.0,11.15,0.0,3.1,22,Trevor Booker,2010,1,23,23,1610612750,Clemson,College/University
+202342,229.0,84.0,109.0,7.9,26.0,35.0,11.65,0.0,3.39,6,Craig Brackins,2010,1,21,21,1610612760,Iowa State,College/University
+202340,180.4,79.25,98.5,4.0,31.5,37.5,11.47,0.0,3.14,2,Avery Bradley,2010,1,19,19,1610612738,Texas,College/University
+202382,280.0,84.25,107.5,12.8,25.0,30.5,12.78,0.0,3.61,22,Derrick Caracter,2010,2,28,58,1610612747,Texas-El Paso,College/University
+202326,291.8,89.75,113.0,16.4,23.5,27.5,11.4,0.0,3.55,0,DeMarcus Cousins,2010,1,5,5,1610612758,Kentucky,College/University
+202348,198.4,79.0,101.0,4.9,31.5,34.5,11.03,0.0,3.37,7,Jordan Crawford,2010,1,27,27,1610612751,Xavier,College/University
+202334,226.6,84.0,108.0,10.0,31.0,36.0,11.7,0.0,3.21,0,Ed Davis,2010,1,13,13,1610612761,North Carolina,College/University
+202365,207.8,84.25,107.5,7.9,23.5,32.0,11.69,0.0,3.44,6,Devin Ebanks,2010,2,13,43,1610612747,West Virginia,College/University
+202324,245.2,88.0,110.0,6.5,31.5,35.5,11.74,0.0,3.25,14,Derrick Favors,2010,1,3,3,1610612751,Georgia Tech,College/University
+202331,214.4,83.25,107.0,5.0,0.0,0.0,0.0,0.0,0.0,4,Paul George,2010,1,10,10,1610612754,Fresno State,College/University
+202376,240.2,81.5,106.0,11.1,24.0,28.5,11.83,0.0,3.41,23,Luke Harangody,2010,2,22,52,1610612738,Notre Dame,College/University
+202351,225.8,84.75,102.0,7.5,31.0,36.0,10.87,0.0,3.31,15,Lazar Hayward,2010,1,30,30,1610612764,Marquette,College/University
+202330,211.0,79.75,103.0,6.9,30.5,34.5,11.73,0.0,3.22,10,Gordon Hayward,2010,1,9,9,1610612762,Butler,College/University
+202333,210.2,83.25,105.0,4.7,28.5,36.5,11.1,0.0,3.18,8,Xavier Henry,2010,1,12,12,1610612763,Kansas,College/University
+202359,203.6,81.25,104.5,6.2,29.0,34.0,11.68,0.0,3.25,0,Darington Hobson,2010,2,7,37,1610612749,New Mexico,College/University
+202345,226.6,84.75,107.0,9.6,29.0,33.0,10.89,0.0,3.2,13,Damion James,2010,1,24,24,1610612737,Texas,College/University
+202325,206.4,85.0,106.0,4.6,32.0,37.0,11.43,0.0,3.14,16,Wesley Johnson,2010,1,4,4,1610612750,Syracuse,College/University
+202356,195.2,80.0,99.5,5.6,31.5,38.5,11.25,0.0,3.19,18,Armon Johnson,2010,2,4,34,1610612757,Nevada-Reno,College/University
+202346,216.0,81.25,101.0,5.9,26.0,32.5,10.88,0.0,3.31,19,Dominique Jones,2010,1,25,25,1610612763,South Florida,College/University
+202371,233.4,84.0,107.5,6.3,27.0,31.5,11.61,0.0,3.24,20,Gani Lawal,2010,2,16,46,1610612756,Georgia Tech,College/University
+202328,246.6,86.25,108.5,11.2,25.0,29.0,12.1,0.0,3.35,15,Greg Monroe,2010,1,7,7,1610612765,Georgetown,College/University
+202350,269.2,88.25,110.5,13.8,24.0,30.5,12.32,0.0,3.39,13,Daniel Orton,2010,1,29,29,1610612753,Kentucky,College/University
+202335,239.6,85.25,107.0,5.3,28.5,33.5,11.14,0.0,3.25,17,Patrick Patterson,2010,1,14,14,1610612745,Kentucky,College/University
+202354,302.6,90.0,111.0,20.8,0.0,0.0,0.0,0.0,0.0,0,Dexter Pittman,2010,2,2,32,1610612748,Texas,College/University
+202360,191.6,79.0,100.0,6.2,23.5,30.5,11.27,0.0,3.49,8,Andy Rautins,2010,2,8,38,1610612752,Syracuse,College/University
+202383,213.2,84.0,107.5,8.3,0.0,37.5,11.65,0.0,3.23,6,Stanley Robinson,2010,2,29,59,1610612753,Connecticut,College/University
+202336,222.4,89.75,112.0,4.6,25.5,28.0,12.49,0.0,3.27,7,Larry Sanders,2010,1,15,15,1610612749,Virginia Commonwealth,College/University
+202362,227.0,82.5,103.0,9.3,27.0,33.0,11.39,0.0,3.38,10,Lance Stephenson,2010,2,10,40,1610612754,Cincinnati,College/University
+202323,213.8,80.0,103.5,8.6,27.5,34.5,11.06,0.0,3.27,9,Evan Turner,2010,1,2,2,1610612755,Ohio State,College/University
+202327,237.4,88.5,106.5,8.0,31.0,33.5,11.15,0.0,3.29,10,Ekpe Udoh,2010,1,6,6,1610612744,Baylor,College/University
+202349,210.8,79.0,101.0,8.6,0.0,0.0,0.0,0.0,0.0,0,Greivis Vasquez,2010,1,28,28,1610612763,Maryland,College/University
+202322,195.6,81.25,101.5,5.6,30.0,39.0,10.84,0.0,3.14,0,John Wall,2010,1,1,1,1610612764,Kentucky,College/University
+202378,208.4,78.0,99.5,7.6,23.0,31.5,11.21,0.0,3.5,10,Willie Warren,2010,2,24,54,1610612746,Oklahoma,College/University
+202358,202.6,81.0,101.0,3.7,31.0,40.0,11.38,0.0,3.15,10,Terrico White,2010,2,6,36,1610612765,Mississippi,College/University
+202355,226.6,91.0,113.0,5.5,27.0,31.5,11.83,0.0,3.54,12,Hassan Whiteside,2010,2,3,33,1610612758,Marshall,College/University
+202728,217.0,87.75,109.5,6.1,31.5,36.0,11.88,0.0,3.35,12,Keith Benson,2011,2,18,48,1610612737,Oakland,College/University
+202705,194.6,85.0,101.0,5.2,34.0,38.5,10.74,0.0,3.09,5,MarShon Brooks,2011,1,25,25,1610612738,Providence,College/University
+202692,192.6,82.0,103.5,5.1,29.0,36.0,10.96,0.0,3.17,5,Alec Burks,2011,1,12,12,1610612762,Colorado,College/University
+202710,222.2,79.5,101.5,5.4,32.0,39.0,11.12,0.0,3.15,14,Jimmy Butler,2011,1,30,30,1610612741,Marquette,College/University
+202708,174.4,74.25,95.5,4.7,29.5,38.5,10.07,0.0,3.22,11,Norris Cole,2011,1,28,28,1610612741,Cleveland State,College/University
+202739,196.6,78.0,99.0,8.5,28.0,35.0,10.94,0.0,3.37,2,Jon Diebler,2011,2,21,51,1610612757,Ohio State,College/University
+202702,224.6,84.0,108.0,6.3,30.5,35.0,11.35,0.0,3.26,16,Kenneth Faried,2011,1,22,22,1610612743,Morehead State,College/University
+202726,197.6,76.25,96.5,9.9,32.5,37.0,10.33,0.0,3.1,4,Andrew Goudelock,2011,2,16,46,1610612747,College of Charleston,College/University
+202706,228.4,81.5,104.0,9.8,25.0,32.0,11.47,0.0,3.3,7,Jordan Hamilton,2011,1,26,26,1610612742,Texas,College/University
+202712,228.0,83.75,106.0,4.0,28.5,33.0,11.92,0.0,3.3,19,Justin Harper,2011,2,2,32,1610612739,Richmond,College/University
+202699,222.8,83.0,103.5,8.4,31.5,37.5,10.96,0.0,3.17,12,Tobias Harris,2011,1,19,19,1610612766,Tennessee,College/University
+202715,186.8,81.0,105.0,5.3,30.0,37.0,11.68,0.0,3.07,0,Tyler Honeycutt,2011,2,5,35,1610612758,California-Los Angeles,College/University
+202681,191.0,76.0,99.0,10.2,0.0,0.0,0.0,0.0,0.0,0,Kyrie Irving,2011,1,1,1,1610612739,Duke,College/University
+202724,216.4,79.5,96.5,4.3,29.5,34.0,11.68,0.0,3.18,16,Charles Jenkins,2011,2,14,44,1610612744,Hofstra,College/University
+202707,219.8,86.0,107.5,7.5,33.5,38.0,11.21,0.0,3.14,15,JaJuan Johnson,2011,1,27,27,1610612751,Purdue,College/University
+202709,186.2,77.5,99.0,9.7,27.5,35.0,10.75,0.0,3.27,5,Cory Joseph,2011,1,29,29,1610612759,Texas,College/University
+202683,259.2,85.5,109.5,5.9,26.0,32.5,11.3,0.0,3.26,14,Enes Freedom,2011,1,3,3,1610612762,Kentucky,College/University
+202688,176.8,78.75,98.5,4.2,29.0,37.5,10.74,0.0,3.07,10,Brandon Knight,2011,1,8,8,1610612765,Kentucky,College/University
+202723,198.2,81.75,101.5,5.9,30.0,35.5,11.2,0.0,3.09,17,Malcolm Lee,2011,2,13,43,1610612741,California-Los Angeles,College/University
+202695,227.4,87.0,106.0,5.4,25.5,32.0,11.45,0.0,3.15,3,Kawhi Leonard,2011,1,15,15,1610612754,San Diego State,College/University
+202727,205.0,82.5,103.0,8.1,33.0,40.5,11.0,0.0,3.13,10,Travis Leslie,2011,2,17,47,1610612746,Georgia,College/University
+202720,223.2,84.0,105.5,5.4,29.5,36.5,10.82,0.0,3.36,14,Jon Leuer,2011,2,10,40,1610612749,Wisconsin,College/University
+202732,202.2,83.0,103.5,5.0,27.0,31.0,0.0,0.0,3.33,6,DeAndre Liggins,2011,2,23,53,1610612753,Kentucky,College/University
+202714,209.0,79.5,96.5,7.1,32.0,39.0,11.23,0.0,3.18,17,Shelvin Mack,2011,2,4,34,1610612764,Butler,College/University
+202734,191.4,81.5,99.5,7.6,32.0,34.5,11.12,0.0,3.31,0,E'Twaun Moore,2011,2,25,55,1610612738,Purdue,College/University
+202694,229.6,82.0,105.5,8.0,29.0,33.0,0.0,0.0,3.15,11,Marcus Morris Sr.,2011,1,14,14,1610612745,Kansas,College/University
+202693,240.8,82.75,106.5,10.2,27.0,31.5,0.0,0.0,3.4,11,Markieff Morris,2011,1,13,13,1610612756,Kansas,College/University
+202721,190.0,79.5,102.0,5.3,24.5,32.0,11.0,0.0,3.2,12,Darius Morris,2011,2,11,41,1610612747,Michigan,College/University
+202718,221.2,81.5,104.5,7.0,25.5,31.5,11.05,0.0,3.29,4,Chandler Parsons,2011,2,8,38,1610612745,Florida,College/University
+202729,194.6,77.25,98.0,7.9,29.5,42.0,11.13,0.0,3.2,5,Josh Selby,2011,2,19,49,1610612763,Kansas,College/University
+202697,221.8,81.5,99.5,6.5,36.5,42.0,11.1,0.0,3.18,18,Iman Shumpert,2011,1,17,17,1610612752,Georgia Tech,College/University
+202713,228.0,82.1,106.0,10.0,23.0,30.0,11.22,0.0,3.21,10,Kyle Singler,2011,2,3,33,1610612765,Duke,College/University
+202698,230.2,85.0,103.5,7.4,30.5,37.5,11.33,0.0,3.09,15,Chris Singleton,2011,1,18,18,1610612764,Florida State,College/University
+202701,187.6,77.5,99.0,5.6,28.5,34.0,11.05,0.0,3.17,9,Nolan Smith,2011,1,21,21,1610612757,Duke,College/University
+202738,186.0,73.75,91.5,6.7,31.5,40.0,10.49,0.0,3.14,13,Isaiah Thomas,2011,2,30,60,1610612758,Washington,College/University
+202717,239.0,85.0,107.5,15.5,27.5,30.5,11.72,0.0,3.41,15,Trey Thompkins,2011,2,7,37,1610612746,Georgia,College/University
+202684,227.4,85.25,108.5,6.2,30.0,35.0,10.92,0.0,3.26,9,Tristan Thompson,2011,1,4,4,1610612739,Texas,College/University
+202691,205.6,81.0,103.5,8.0,26.5,31.5,10.99,0.0,3.24,5,Klay Thompson,2011,1,11,11,1610612744,Washington State,College/University
+202719,262.4,89.0,110.5,13.4,28.0,33.5,11.26,0.0,3.29,10,Jeremy Tyler,2011,2,9,39,1610612766,Tokyo Apache (Japan),Other Team/Club
+202696,259.8,88.5,112.5,6.1,23.5,25.0,12.02,0.0,3.27,8,Nikola Vucevic,2011,1,16,16,1610612755,Southern California,College/University
+202689,184.0,75.5,91.5,5.9,32.0,39.5,10.87,0.0,3.16,7,Kemba Walker,2011,1,9,9,1610612766,Connecticut,College/University
+202716,247.2,84.25,106.5,12.1,25.0,30.5,12.74,0.0,3.45,10,Jordan Williams,2011,2,6,36,1610612751,Maryland,College/University
+202682,248.4,85.5,108.0,10.8,29.0,34.5,11.03,0.0,3.23,19,Derrick Williams,2011,1,2,2,1610612750,Arizona,College/University
+203112,223.8,86.75,106.5,7.1,32.0,37.0,10.48,0.0,3.28,13,Quincy Acy,2012,2,7,37,1610612761,Baylor,College/University
+203084,227.8,83.25,101.5,9.6,38.0,39.5,10.93,0.0,3.16,15,Harrison Barnes,2012,1,7,7,1610612744,North Carolina,College/University
+203115,174.4,81.75,102.5,4.1,30.0,34.0,12.5,0.0,3.6,0,Will Barton,2012,2,10,40,1610612757,Memphis,College/University
+203078,201.8,80.0,100.0,6.0,33.0,39.0,10.95,0.0,3.28,8,Bradley Beal,2012,1,3,3,1610612764,Florida,College/University
+203109,241.2,81.25,99.5,9.0,31.0,34.5,11.45,0.0,3.37,20,Jae Crowder,2012,2,4,34,1610612739,Marquette,College/University
+203099,187.6,78.5,98.0,3.6,0.0,0.0,0.0,0.0,0.0,4,Jared Cunningham,2012,1,24,24,1610612739,Oregon State,College/University
+203076,221.8,89.5,108.0,7.9,0.0,0.0,0.0,0.0,0.0,0,Anthony Davis,2012,1,1,1,1610612740,Kentucky,College/University
+203134,188.2,77.0,94.5,6.6,33.5,40.0,10.82,0.0,3.19,8,Marcus Denmon,2012,2,29,59,1610612759,Missouri,College/University
+203083,278.6,90.25,109.5,7.5,31.5,33.5,10.83,0.0,3.39,10,Andre Drummond,2012,1,9,9,1610612765,Connecticut,College/University
+203119,192.0,78.5,98.0,4.3,29.0,36.5,10.59,0.0,3.33,0,Kim English,2012,2,14,44,1610612765,Missouri,College/University
+203105,264.2,89.75,108.0,5.5,34.0,33.5,12.35,0.0,3.29,18,Festus Ezeli,2012,1,30,30,1610612744,Vanderbilt,College/University
+203110,235.6,85.25,105.0,11.3,28.0,33.0,11.01,0.0,3.4,9,Draymond Green,2012,2,5,35,1610612744,Michigan State,College/University
+203090,206.6,84.0,102.5,5.3,32.5,37.0,10.87,0.0,3.25,5,Maurice Harkless,2012,1,15,15,1610612755,St. John's (NY),College/University
+203089,216.0,89.0,112.0,8.6,25.5,30.0,0.0,0.0,0.0,5,John Henson,2012,1,14,14,1610612749,North Carolina,College/University
+203133,218.0,80.5,102.0,9.4,27.5,30.0,11.56,0.0,3.41,13,Robbie Hummel,2012,2,28,58,1610612750,Purdue,College/University
+203108,229.8,87.0,108.5,5.0,30.0,32.5,11.84,0.0,3.4,6,Bernard James,2012,2,3,33,1610612739,Florida State,College/University
+203098,212.0,80.5,98.0,7.1,30.5,36.5,11.36,0.0,3.37,10,John Jenkins,2012,1,23,23,1610612737,Vanderbilt,College/University
+203111,223.8,83.25,99.0,7.0,32.0,39.5,10.98,0.0,3.25,13,Orlando Johnson,2012,2,6,36,1610612758,California-Santa Barbara,College/University
+203130,212.0,79.0,96.0,7.0,33.5,41.5,10.76,0.0,3.21,17,Darius Johnson-Odom,2012,2,25,55,1610612742,Marquette,College/University
+203093,252.0,86.25,107.0,7.7,29.5,34.5,11.57,0.0,3.4,12,Terrence Jones,2012,1,18,18,1610612745,Kentucky,College/University
+203103,233.8,85.75,107.0,4.6,33.0,38.5,11.31,0.0,3.19,11,Perry Jones III,2012,1,28,28,1610612760,Baylor,College/University
+203126,215.0,83.0,104.0,8.6,28.5,35.0,0.0,0.0,3.46,6,Kris Joseph,2012,2,21,51,1610612738,Syracuse,College/University
+203077,232.8,84.0,104.5,7.0,32.0,35.5,11.77,0.0,3.18,6,Michael Kidd-Gilchrist,2012,1,2,2,1610612766,Kentucky,College/University
+203117,199.4,78.75,98.5,6.7,29.0,33.5,11.12,0.0,3.41,2,Doron Lamb,2012,2,12,42,1610612749,Kentucky,College/University
+203087,179.2,83.0,102.0,4.5,31.5,38.0,10.98,0.0,3.25,5,Jeremy Lamb,2012,1,12,12,1610612745,Connecticut,College/University
+203086,249.8,87.0,108.0,5.7,30.0,32.5,11.34,0.0,3.41,19,Meyers Leonard,2012,1,11,11,1610612757,Illinois,College/University
+203081,188.8,79.75,95.5,5.9,34.5,39.5,11.15,0.0,3.34,13,Damian Lillard,2012,1,6,6,1610612757,Weber State,College/University
+203088,198.4,77.5,96.0,7.8,31.0,37.0,12.03,0.0,3.23,0,Kendall Marshall,2012,1,13,13,1610612756,North Carolina,College/University
+203097,255.0,86.5,110.0,9.2,29.5,31.0,12.14,0.0,3.44,9,Fab Melo,2012,1,22,22,1610612738,Syracuse,College/University
+203114,216.2,82.75,103.0,7.8,28.0,31.0,11.45,0.0,3.47,4,Khris Middleton,2012,2,9,39,1610612765,Texas A&M,College/University
+203121,233.4,81.0,101.0,7.5,33.0,37.0,11.34,0.0,3.31,14,Darius Miller,2012,2,16,46,1610612740,Kentucky,College/University
+203113,218.7,85.25,105.0,7.8,30.5,36.0,11.05,0.0,3.48,8,Quincy Miller,2012,2,8,38,1610612743,Baylor,College/University
+203102,232.8,86.25,106.5,7.7,33.5,37.5,11.32,0.0,3.22,10,Arnett Moultrie,2012,1,27,27,1610612748,Mississippi State,College/University
+203122,194.0,78.75,99.0,5.8,31.0,36.5,10.97,0.0,3.42,11,Kevin Murphy,2012,2,17,47,1610612762,Tennessee Tech,College/University
+203094,234.0,88.0,107.0,7.6,28.5,30.5,11.89,0.0,3.67,10,Andrew Nicholson,2012,1,19,19,1610612753,St. Bonaventure,College/University
+203124,240.8,88.75,106.5,8.0,31.5,31.5,11.65,0.0,3.53,0,Kyle O'Quinn,2012,2,19,49,1610612753,Norfolk State,College/University
+203101,252.4,84.75,105.5,11.4,34.0,40.5,10.64,0.0,3.36,15,Miles Plumlee,2012,1,26,26,1610612754,Duke,College/University
+203085,202.8,79.25,96.5,6.2,32.5,37.5,11.54,0.0,3.32,1,Austin Rivers,2012,1,10,10,1610612740,Duke,College/University
+203080,244.2,87.25,106.0,5.0,28.5,35.5,11.96,0.0,3.17,15,Thomas Robinson,2012,1,5,5,1610612758,Kansas,College/University
+203082,196.6,79.25,100.5,3.2,31.0,37.5,11.78,0.0,3.28,2,Terrence Ross,2012,1,8,8,1610612761,Washington,College/University
+203107,200.6,79.25,100.0,5.2,0.0,0.0,0.0,0.0,0.0,0,Tomas Satoransky,2012,2,2,32,1610612764,CB Sevilla (Spain),Other Team/Club
+203118,240.8,82.75,104.0,10.6,27.0,32.5,11.59,0.0,3.44,14,Mike Scott,2012,2,13,43,1610612737,Virginia,College/University
+203096,268.2,85.25,105.5,10.7,29.5,31.0,12.77,0.0,3.81,9,Jared Sullinger,2012,1,21,21,1610612738,Ohio State,College/University
+203116,177.0,78.25,97.5,4.2,32.0,36.5,11.48,0.0,3.2,0,Tyshawn Taylor,2012,2,11,41,1610612757,Kansas,College/University
+203106,212.8,78.25,101.5,4.2,33.5,40.0,10.87,0.0,3.29,15,Jeffery Taylor,2012,2,1,31,1610612766,Vanderbilt,College/University
+203104,179.8,79.25,96.5,6.3,32.5,40.5,10.65,0.0,3.19,8,Marquis Teague,2012,1,29,29,1610612741,Kentucky,College/University
+203079,221.0,79.25,98.0,8.5,0.0,0.0,0.0,0.0,0.0,0,Dion Waiters,2012,1,4,4,1610612739,Syracuse,College/University
+203091,260.6,84.0,104.5,10.6,0.0,0.0,0.0,0.0,0.0,0,Royce White,2012,1,16,16,1610612745,Iowa State,College/University
+203100,203.2,81.0,101.0,5.2,30.0,35.5,10.75,0.0,3.24,0,Tony Wroten,2012,1,25,25,1610612763,Washington,College/University
+203092,247.4,84.0,104.5,6.4,30.0,34.0,11.13,0.0,3.4,16,Tyler Zeller,2012,1,17,17,1610612742,North Carolina,College/University
+203500,254.5,88.5,109.5,6.65,28.5,33.0,11.85,3.02,3.4,16,Steven Adams,2013,1,12,12,1610612760,Pittsburgh,College/University
+203485,189.2,79.0,100.0,3.95,28.0,34.0,11.78,3.24,3.4,8,Lorenzo Brown,2013,2,22,52,1610612750,North Carolina State,College/University
+203493,199.8,80.75,102.0,6.95,31.0,36.5,11.33,3.3,3.31,11,Reggie Bullock,2013,1,25,25,1610612746,North Carolina,College/University
+203504,187.0,77.5,97.5,6.9,29.5,36.5,11.2,3.01,3.16,3,Trey Burke,2013,1,9,9,1610612750,Michigan,College/University
+203484,203.6,80.0,100.5,6.45,29.0,34.5,10.6,3.2,3.12,7,Kentavious Caldwell-Pope,2013,1,8,8,1610612765,Georgia,College/University
+203477,188.4,76.5,94.5,5.9,33.0,40.5,10.98,2.89,3.22,16,Isaiah Canaan,2013,2,4,34,1610612745,Murray State,College/University
+203487,184.4,79.25,101.0,4.4,31.5,41.0,10.68,3.7,3.22,8,Michael Carter-Williams,2013,1,11,11,1610612755,Syracuse,College/University
+203459,197.4,83.25,103.5,4.65,30.5,36.0,10.67,3.1,3.32,10,Allen Crabbe,2013,2,1,31,1610612739,California,College/University
+203476,229.6,87.5,111.5,5.35,0.0,0.0,0.0,0.0,0.0,0,Gorgui Dieng,2013,1,21,21,1610612762,Louisville,College/University
+203516,200.8,83.5,104.5,4.5,29.5,36.5,11.55,3.06,3.4,7,James Ennis III,2013,2,20,50,1610612737,Long Beach State,College/University
+203467,202.6,81.25,103.5,3.3,32.0,38.5,11.16,3.09,3.25,15,Carrick Felix,2013,2,3,33,1610612739,Arizona State,College/University
+203479,190.8,83.25,103.5,8.25,0.0,0.0,0.0,0.0,0.0,0,Jamaal Franklin,2013,2,11,41,1610612763,San Diego State,College/University
+203497,237.6,92.5,115.0,4.4,25.0,29.0,12.85,3.19,3.57,7,Rudy Gobert,2013,1,27,27,1610612743,Cholet Basket (France),Other Team/Club
+203462,189.0,81.5,102.0,4.55,30.0,36.0,10.75,3.41,3.27,1,Archie Goodwin,2013,1,29,29,1610612760,Kentucky,College/University
+203475,178.2,77.75,98.0,4.35,0.0,0.0,0.0,0.0,0.0,5,Erick Green,2013,2,16,46,1610612762,Virginia Tech,College/University
+203501,199.4,79.0,101.0,6.05,31.5,37.5,10.68,2.93,3.25,16,Tim Hardaway Jr.,2013,1,24,24,1610612752,Michigan,College/University
+203524,226.0,81.0,103.0,7.6,29.5,37.5,10.77,2.91,3.19,14,Solomon Hill,2013,1,23,23,1610612754,Arizona,College/University
+203470,262.8,86.0,110.0,9.6,26.5,30.0,11.52,3.04,3.52,12,Colton Iverson,2013,2,23,53,1610612754,Colorado State,College/University
+203510,176.0,70.0,90.0,4.5,0.0,0.0,0.0,0.0,0.0,0,Pierre Jackson,2013,2,12,42,1610612755,Baylor,College/University
+203511,232.0,86.0,109.0,10.05,28.5,34.0,11.85,3.23,3.51,2,Grant Jerrett,2013,2,10,40,1610612757,Arizona,College/University
+203527,228.0,83.5,110.0,14.75,0.0,0.0,0.0,0.0,0.0,0,Ryan Kelly,2013,2,18,48,1610612747,Duke,College/University
+203499,170.8,70.75,89.5,3.8,34.5,44.0,10.64,3.03,3.08,12,Shane Larkin,2013,1,18,18,1610612737,Miami (FL),College/University
+203495,197.2,79.25,102.5,10.25,27.0,33.5,10.72,3.16,3.32,4,Ricky Ledo,2013,2,13,43,1610612749,Providence,College/University
+203458,0.0,87.5,0.0,6.4,0.0,0.0,0.0,0.0,0.0,0,Alex Len,2013,1,5,5,1610612756,Maryland,College/University
+203492,191.4,75.25,96.5,7.3,30.5,40.0,10.82,3.08,3.25,5,Ray McCallum,2013,2,6,36,1610612758,Detroit Mercy,College/University
+203468,197.0,78.25,96.5,8.6,32.0,38.5,11.02,2.91,3.32,13,CJ McCollum,2013,1,10,10,1610612757,Lehigh,College/University
+203463,189.2,79.75,100.5,5.0,32.5,42.0,11.87,3.11,3.27,6,Ben McLemore,2013,1,7,7,1610612758,Kansas,College/University
+203502,236.4,86.5,106.5,5.55,33.5,38.0,11.82,3.25,3.52,13,Tony Mitchell,2013,2,7,37,1610612765,North Texas,College/University
+203498,221.8,83.0,104.5,9.0,29.5,37.0,10.99,2.93,3.32,10,Shabazz Muhammad,2013,1,14,14,1610612762,California-Los Angeles,College/University
+203513,239.8,82.5,108.0,7.95,24.5,29.5,12.19,2.96,3.57,13,Erik Murphy,2013,2,19,49,1610612741,Florida,College/University
+203488,230.2,85.0,108.0,6.8,28.0,33.5,11.76,2.99,3.44,5,Mike Muscala,2013,2,14,44,1610612742,Bucknell,College/University
+203457,206.4,87.75,110.0,4.15,0.0,0.0,0.0,0.0,0.0,0,Nerlens Noel,2013,1,6,6,1610612740,Kentucky,College/University
+203506,213.2,81.25,100.5,6.55,33.0,42.0,10.69,3.14,3.25,15,Victor Oladipo,2013,1,2,2,1610612753,Indiana,College/University
+203482,234.0,81.75,108.0,6.65,24.5,29.5,11.42,2.99,3.59,5,Kelly Olynyk,2013,1,13,13,1610612742,Gonzaga,College/University
+203486,238.2,83.0,108.0,6.15,30.5,36.0,10.89,2.76,3.29,14,Mason Plumlee,2013,1,22,22,1610612751,Duke,College/University
+203490,197.6,85.5,105.5,6.65,27.0,36.0,11.25,3.06,3.4,9,Otto Porter Jr.,2013,1,3,3,1610612764,Georgetown,College/University
+203318,210.8,81.25,101.5,8.45,33.0,40.5,10.99,3.08,3.25,10,Glen Rice,2013,2,5,35,1610612755,Michigan,College/University
+203460,205.8,83.0,104.5,7.05,30.0,36.5,11.36,3.02,3.34,10,Andre Roberson,2013,1,26,26,1610612750,Colorado,College/University
+203471,164.8,79.75,98.0,4.1,30.0,34.0,11.09,2.86,3.21,1,Dennis Schroder,2013,1,17,17,1610612737,Basketball Lowen Braunschweig (Germany),Other Team/Club
+203491,180.6,75.0,93.0,6.05,33.5,41.5,10.59,2.93,3.16,15,Peyton Siva,2013,2,26,56,1610612765,Louisville,College/University
+203503,198.2,83.5,105.5,4.85,30.0,36.5,11.36,2.84,3.25,7,Tony Snell,2013,1,20,20,1610612741,New Mexico,College/University
+203472,219.8,82.0,104.0,9.1,28.5,32.0,12.94,3.38,3.53,5,Deshaun Thomas,2013,2,28,58,1610612759,Ohio State,College/University
+203481,221.8,86.0,110.5,8.65,26.5,29.0,12.49,3.29,3.47,10,Jeff Withey,2013,2,9,39,1610612757,Kansas,College/University
+203489,196.4,75.75,98.0,5.5,0.0,0.0,0.0,0.0,0.0,8,Nate Wolters,2013,2,8,38,1610612764,South Dakota State,College/University
+203469,230.0,82.75,106.0,4.75,35.5,37.5,10.82,2.69,3.15,17,Cody Zeller,2013,1,4,4,1610612766,Indiana,College/University
+1626147,230.6,83.75,101.0,5.0,38.0,43.0,11.13,2.88,3.22,12,Justin Anderson,2015,1,21,21,1610612742,Virginia,College/University
+1626164,205.8,80.25,102.5,8.3,27.5,34.5,10.27,2.75,3.28,8,Devin Booker,2015,1,13,13,1610612756,Kentucky,College/University
+1626148,211.0,83.0,104.5,6.1,27.5,34.5,10.94,3.29,3.18,4,Anthony Brown,2015,2,4,34,1610612747,Stanford,College/University
+1626161,242.4,87.0,111.0,6.3,0.0,0.0,0.0,0.0,0.0,0,Willie Cauley-Stein,2015,1,6,6,1610612758,Kentucky,College/University
+1626176,242.6,89.25,110.5,9.6,29.0,32.0,11.6,3.3,3.47,9,Rakeem Christmas,2015,2,6,36,1610612750,Syracuse,College/University
+1626192,215.0,80.0,96.0,10.2,37.5,44.0,10.58,3.08,3.2,13,Pat Connaughton,2015,2,11,41,1610612751,Notre Dame,College/University
+1626183,230.2,83.0,105.0,5.8,28.5,34.5,12.22,3.53,3.2,12,Branden Dawson,2015,2,26,56,1610612740,Michigan State,College/University
+1626155,218.6,83.5,106.0,7.5,25.5,34.5,10.64,2.96,3.28,5,Sam Dekker,2015,1,18,18,1610612745,Wisconsin,College/University
+1626170,198.0,79.5,100.0,5.6,0.0,0.0,0.0,0.0,0.0,0,Jerian Grant,2015,1,19,19,1610612764,Notre Dame,College/University
+1626152,185.8,78.0,100.0,4.3,28.0,34.0,11.41,3.12,3.25,19,Olivier Hanlan,2015,2,12,42,1610612762,Boston College,College/University
+1626149,253.4,88.25,109.0,11.9,0.0,0.0,0.0,0.0,0.0,0,Montrezl Harrell,2015,2,2,32,1610612745,Louisville,College/University
+1626150,213.2,81.0,100.0,5.9,26.5,33.0,11.2,0.0,3.34,0,Andrew Harrison,2015,2,14,44,1610612756,Kentucky,College/University
+1626227,181.4,77.5,98.5,9.2,26.0,28.5,10.56,2.93,3.44,1,Tyler Harvey,2015,2,21,51,1610612753,Eastern Washington,College/University
+1626178,210.8,86.0,104.0,5.0,32.0,38.0,10.41,3.19,3.12,13,Rondae Hollis-Jefferson,2015,1,23,23,1610612757,Arizona,College/University
+1626158,242.8,85.5,108.0,8.8,32.5,36.0,11.24,3.31,3.32,15,Richaun Holmes,2015,2,7,37,1610612755,Bowling Green,College/University
+1626154,185.0,82.5,104.0,6.0,27.5,33.5,10.87,2.91,3.26,1,RJ Hunter,2015,1,28,28,1610612738,Georgia State,College/University
+1626177,264.6,86.0,112.0,14.9,22.5,25.0,11.76,2.94,3.62,4,Dakari Johnson,2015,2,18,48,1610612760,Kentucky,College/University
+1626169,241.8,83.5,102.0,7.5,0.0,0.0,0.0,0.0,0.0,0,Stanley Johnson,2015,1,8,8,1610612765,Arizona,College/University
+1626145,184.6,77.0,97.0,6.5,26.5,32.5,11.84,2.95,3.32,2,Tyus Jones,2015,1,24,24,1610612739,Duke,College/University
+1626163,231.2,83.0,109.5,9.4,0.0,0.0,0.0,0.0,0.0,0,Frank Kaminsky,2015,1,9,9,1610612766,Wisconsin,College/University
+1626172,222.4,87.5,110.0,11.9,0.0,0.0,0.0,0.0,0.0,0,Kevon Looney,2015,1,30,30,1610612744,California-Los Angeles,College/University
+1626168,241.2,85.5,108.0,12.1,0.0,0.0,0.0,0.0,0.0,0,Trey Lyles,2015,1,12,12,1610612762,Kentucky,College/University
+1626185,238.6,81.0,106.5,10.1,28.5,35.0,11.2,2.97,3.27,19,Jarell Martin,2015,1,25,25,1610612763,Louisiana State,College/University
+1626191,199.0,87.25,109.0,6.2,0.0,0.0,0.0,0.0,0.0,0,Chris McCullough,2015,1,29,29,1610612751,Syracuse,College/University
+1626175,238.0,87.25,106.0,7.2,33.0,37.5,11.72,3.13,3.28,9,Jordan Mickey,2015,2,3,33,1610612738,Louisiana State,College/University
+1626162,202.8,86.25,102.5,5.7,34.5,37.0,11.09,3.12,3.32,7,Kelly Oubre Jr.,2015,1,15,15,1610612737,Kansas,College/University
+1626166,182.8,79.25,97.5,6.3,29.75,35.5,10.9,2.93,3.28,0,Cameron Payne,2015,1,14,14,1610612760,Murray State,College/University
+1626171,246.2,86.0,108.5,8.9,25.0,31.5,11.78,3.28,3.56,5,Bobby Portis,2015,1,22,22,1610612741,Arkansas,College/University
+1626181,215.4,82.75,102.5,6.4,32.5,40.5,10.69,3.2,3.2,5,Norman Powell,2015,2,16,46,1610612749,California-Los Angeles,College/University
+1626179,190.2,80.25,98.5,5.6,33.0,38.0,10.84,2.84,3.15,7,Terry Rozier,2015,1,16,16,1610612738,Louisville,College/University
+1626156,193.4,81.75,102.0,8.3,0.0,0.0,0.0,0.0,0.0,0,D'Angelo Russell,2015,1,2,2,1610612747,Ohio State,College/University
+1626194,177.4,79.75,97.5,5.3,34.5,43.0,10.78,2.88,3.02,3,Marcus Thornton,2015,2,15,45,1610612738,William & Mary,College/University
+1626160,195.8,82.0,100.5,4.1,34.5,40.0,10.97,3.2,3.27,12,JP Tokoto,2015,2,28,58,1610612755,North Carolina,College/University
+1626167,238.6,88.0,112.0,9.3,0.0,0.0,0.0,0.0,0.0,0,Myles Turner,2015,1,11,11,1610612754,Texas,College/University
+1626173,198.6,79.0,101.0,6.2,28.0,34.0,11.4,3.1,3.21,5,Rashad Vaughn,2015,1,17,17,1610612749,Nevada-Las Vegas,College/University
+1626159,221.8,82.25,104.5,5.3,0.0,0.0,0.0,0.0,0.0,0,Justise Winslow,2015,1,10,10,1610612748,Duke,College/University
+1626153,181.4,79.5,101.5,6.6,29.5,31.0,11.16,3.5,3.29,4,Delon Wright,2015,1,20,20,1610612761,Utah,College/University
+1628389,242.6,86.75,108.0,5.2,33.5,38.5,11.94,3.24,3.24,12,Bam Adebayo,2017,1,14,14,1610612748,Kentucky,College/University
+1628386,233.6,89.25,109.5,7.4,31.5,35.5,11.82,3.0,3.21,4,Jarrett Allen,2017,1,22,22,1610612751,Texas,College/University
+1628443,192.4,81.25,99.5,6.4,33.0,35.5,11.24,2.98,3.15,7,Kadeem Allen,2017,2,23,53,1610612738,Arizona,College/University
+1628387,252.2,90.25,110.5,5.4,29.5,32.5,12.52,3.48,3.44,11,Ike Anigbogu,2017,2,17,47,1610612754,California-Los Angeles,College/University
+1628384,232.4,86.25,107.5,6.8,0.0,0.0,0.0,0.0,0.0,0,O.G. Anunoby,2017,1,23,23,1610612761,Indiana,College/University
+1628407,221.6,82.0,103.5,7.9,30.0,36.5,11.7,3.22,3.22,8,Dwayne Bacon,2017,2,10,40,1610612740,Florida State,College/University
+1628395,223.6,83.75,104.5,5.4,31.5,38.0,10.63,2.83,3.21,16,Jordan Bell,2017,2,8,38,1610612741,Oregon,College/University
+1628417,218.6,82.0,104.5,5.7,31.0,35.5,11.47,3.35,3.17,16,Jaron Blossomgame,2017,2,29,59,1610612759,Clemson,College/University
+1628396,248.8,89.0,112.5,12.0,24.5,27.5,11.79,2.99,3.44,5,Tony Bradley,2017,1,28,28,1610612747,North Carolina,College/University
+1628415,220.2,78.0,100.5,7.5,31.0,37.5,11.14,3.24,3.21,16,Dillon Brooks,2017,2,15,45,1610612745,Oregon,College/University
+1628418,247.8,90.0,112.5,9.4,25.5,33.0,11.42,3.12,3.37,7,Thomas Bryant,2017,2,12,42,1610612762,Indiana,College/University
+1628380,232.2,85.0,111.0,8.9,0.0,0.0,0.0,0.0,0.0,0,Zach Collins,2017,1,10,10,1610612758,Gonzaga,College/University
+1628381,225.2,83.25,106.5,5.4,33.0,37.5,11.66,3.27,3.27,15,John Collins,2017,1,19,19,1610612737,Wake Forest,College/University
+1628977,197.4,83.25,101.5,5.2,34.5,44.5,10.88,2.79,3.11,0,Hamidou Diallo,2018,2,15,45,1610612751,Kentucky,College/University
+1628416,182.6,77.25,99.5,4.7,30.5,36.0,10.55,2.98,3.16,8,Tyler Dorsey,2017,2,11,41,1610612737,Oregon,College/University
+1628422,205.2,81.0,100.0,5.3,31.5,38.0,11.18,3.03,3.13,13,Damyean Dotson,2017,2,14,44,1610612752,Houston,College/University
+1628393,185.2,77.5,95.0,9.1,27.5,33.5,11.34,3.26,3.21,1,Jawun Evans,2017,2,9,39,1610612755,Oklahoma State,College/University
+1628390,184.4,80.75,103.0,5.8,28.5,38.0,11.16,3.22,3.32,0,Terrance Ferguson,2017,1,21,21,1610612760,Adelaide 36ers (Australia),Other Team/Club
+1628368,169.6,78.5,100.0,4.5,0.0,0.0,0.0,0.0,0.0,0,De'Aaron Fox,2017,1,5,5,1610612758,Kentucky,College/University
+1628365,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Markelle Fultz,2017,1,1,1,1610612755,Washington,College/University
+1628385,232.0,87.25,109.5,5.2,27.0,32.5,11.08,3.0,3.34,5,Harry Giles III,2017,1,20,20,1610612757,Duke,College/University
+1628404,209.2,80.25,101.0,5.8,27.5,35.5,11.15,3.02,3.18,9,Josh Hart,2017,1,30,30,1610612762,Villanova,College/University
+1628411,193.4,85.0,105.5,4.0,31.5,36.0,11.25,3.23,3.36,5,Wes Iwundu,2017,2,3,33,1610612753,Kansas State,College/University
+1628402,201.6,79.5,98.0,6.7,34.5,42.0,10.94,2.7,3.14,9,Frank Jackson,2017,2,1,31,1610612766,Duke,College/University
+1628992,219.4,87.25,107.0,7.1,26.5,31.5,11.78,3.08,3.43,0,Justin Jackson,2018,2,13,43,1610612743,Maryland,College/University
+1628382,200.8,83.0,104.5,8.1,29.5,35.5,10.8,3.06,3.3,0,Justin Jackson,2017,1,15,15,1610612757,North Carolina,College/University
+1628379,196.2,77.25,98.5,6.6,0.0,0.0,0.0,0.0,0.0,0,Luke Kennard,2017,1,12,12,1610612765,Duke,College/University
+1628398,222.6,84.25,107.5,9.4,27.0,34.0,10.72,2.98,3.25,12,Kyle Kuzma,2017,1,27,27,1610612751,Utah,College/University
+1628388,222.2,83.0,107.0,6.8,29.0,34.5,11.55,3.27,3.27,6,T.J. Leaf,2017,1,18,18,1610612754,California-Los Angeles,College/University
+1628399,215.0,84.0,107.5,13.6,29.5,33.5,11.68,2.81,3.46,1,Tyler Lydon,2017,1,24,24,1610612762,Syracuse,College/University
+1628412,188.8,75.25,94.0,4.3,34.0,41.0,11.41,3.09,3.18,15,Frank Mason III,2017,2,4,34,1610612758,Kansas,College/University
+1628378,211.4,82.0,97.0,5.9,36.5,40.5,11.53,3.07,3.01,10,Donovan Mitchell,2017,1,13,13,1610612743,Louisville,College/University
+1628420,175.2,76.0,96.5,6.9,28.0,33.5,11.0,3.2,3.19,8,Monte Morris,2017,2,21,51,1610612743,Iowa State,College/University
+1629004,219.6,77.0,100.0,11.4,27.0,33.0,12.4,3.25,3.53,8,Svi Mykhailiuk,2018,2,17,47,1610612747,Kansas,College/University
+1628400,241.4,81.75,102.0,5.5,35.0,40.5,10.58,3.07,3.16,19,Semi Ojeleye,2017,2,7,37,1610612738,Southern Methodist,College/University
+1628383,229.0,87.0,111.5,7.8,26.0,30.5,11.8,3.31,3.46,0,Justin Patton,2017,1,16,16,1610612741,Creighton,College/University
+1628409,232.0,82.75,105.0,8.8,0.0,0.0,0.0,0.0,0.0,0,Alec Peters,2017,2,24,54,1610612756,Valparaiso,College/University
+1628397,219.6,85.5,109.0,6.8,28.5,32.5,12.68,3.23,3.35,3,Ivan Rabb,2017,2,5,35,1610612753,California,College/University
+1628432,206.2,84.0,102.0,6.5,28.5,36.0,11.37,3.21,3.34,12,Davon Reed,2017,2,2,32,1610612756,Miami (FL),College/University
+1628410,176.4,81.0,102.5,8.3,0.0,0.0,0.0,0.0,0.0,0,Edmond Sumner,2017,2,22,52,1610612740,Xavier,College/University
+1628403,245.6,87.0,108.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Caleb Swanigan,2017,1,26,26,1610612757,Purdue,College/University
+1628414,211.6,82.0,103.0,7.8,27.0,30.5,11.48,3.03,3.36,15,Sindarius Thornwell,2017,2,18,48,1610612749,South Carolina,College/University
+1629021,231.2,84.0,108.0,6.7,25.5,32.5,12.0,2.98,3.35,0,Moritz Wagner,2018,1,25,25,1610612747,Michigan,College/University
+1629118,254.0,84.0,109.5,10.9,0.0,0.0,0.0,0.0,0.0,11,Thomas Welsh,2018,2,28,58,1610612743,California-Los Angeles,College/University
+1628401,189.8,79.5,101.5,6.2,31.0,36.5,10.84,2.92,3.08,10,Derrick White,2017,1,29,29,1610612759,Colorado,College/University
+1628430,190.2,79.25,99.0,5.6,27.5,34.5,10.42,3.08,3.19,10,Nigel Williams-Goss,2017,2,25,55,1610612762,Gonzaga,College/University
+1628391,234.4,87.0,109.5,6.4,0.0,0.0,0.0,0.0,0.0,0,D.J. Wilson,2017,1,17,17,1610612749,Michigan,College/University
+1628960,198.0,79.25,97.0,5.55,32.5,40.5,10.31,3.04,3.15,0,Grayson Allen,2018,1,21,21,1610612762,Duke,College/University
+1628961,194.8,86.25,110.0,5.0,29.5,35.0,12.48,3.48,3.21,0,Kostas Antetokounmpo,2018,2,30,60,1610612755,Dayton,College/University
+1628962,273.8,91.0,112.5,7.95,31.0,31.5,12.97,3.65,3.12,11,Udoka Azubuike,2020,1,27,27,1610612762,Kansas,College/University
+1628964,225.6,94.0,115.5,6.2,0.0,0.0,0.0,0.0,0.0,0,Mo Bamba,2018,1,6,6,1610612753,Texas,College/University
+1628966,223.8,87.25,106.5,5.35,30.5,35.0,11.2,3.28,3.17,11,Keita Bates-Diop,2018,2,18,48,1610612750,Ohio State,College/University
+1628970,220.4,81.5,103.5,5.9,0.0,0.0,0.0,0.0,0.0,0,Miles Bridges,2018,1,12,12,1610612746,Michigan State,College/University
+1628971,194.6,81.0,98.5,3.75,32.5,38.0,11.11,3.44,3.2,17,Bruce Brown,2018,2,12,42,1610612765,Miami (FL),College/University
+1628972,208.0,82.25,105.0,7.05,26.0,33.0,11.51,3.29,3.33,5,Troy Brown Jr.,2018,1,15,15,1610612764,Oregon,College/University
+1628973,198.4,76.0,96.0,6.7,29.0,37.0,10.59,3.11,3.15,7,Jalen Brunson,2018,2,3,33,1610612742,Villanova,College/University
+1628974,198.8,80.25,100.0,6.5,25.0,31.5,11.89,3.4,3.17,0,Tony Carr,2018,2,21,51,1610612740,Penn State,College/University
+1628975,196.2,76.25,95.0,4.15,29.0,36.5,11.04,3.05,3.18,14,Jevon Carter,2018,2,2,32,1610612763,West Virginia,College/University
+1628976,251.4,88.5,109.0,7.85,0.0,0.0,0.0,0.0,0.0,0,Wendell Carter Jr.,2018,1,7,7,1610612741,Duke,College/University
+1628978,200.6,78.0,97.5,5.0,34.5,42.0,10.72,3.12,3.11,12,Donte DiVincenzo,2018,1,17,17,1610612749,Villanova,College/University
+1629035,195.6,78.25,94.5,6.3,28.5,34.5,11.59,3.15,3.2,12,Carsen Edwards,2019,2,3,33,1610612755,Purdue,College/University
+1628980,199.6,81.25,102.5,6.5,28.0,35.5,11.11,3.14,3.2,8,Jacob Evans,2018,1,28,28,1610612744,Cincinnati,College/University
+1628981,233.2,88.25,109.0,5.25,29.0,35.0,12.19,3.03,3.23,11,Bruno Fernando,2019,2,4,34,1610612755,Maryland,College/University
+1628982,198.2,85.75,105.0,7.9,31.0,40.5,11.24,3.08,3.08,0,Melvin Frazier Jr.,2018,2,5,35,1610612753,Tulane,College/University
+1628983,180.0,83.5,104.0,3.0,0.0,0.0,0.0,0.0,0.0,0,Shai Gilgeous-Alexander,2018,1,11,11,1610612766,Kentucky,College/University
+1628984,186.4,78.25,96.0,4.8,31.0,37.0,11.28,3.15,3.21,14,Devonte' Graham,2018,2,4,34,1610612737,Kansas,College/University
+1628985,206.4,79.75,102.0,8.45,25.0,31.0,10.95,3.16,3.27,6,Devon Hall,2018,2,23,53,1610612760,Virginia,College/University
+1628986,179.0,77.5,98.0,5.0,31.5,39.5,12.11,3.16,3.13,6,Jaylen Hands,2019,2,26,56,1610612746,California-Los Angeles,College/University
+1628987,211.6,87.5,107.0,5.15,27.5,32.0,11.28,3.15,3.36,4,Kevin Hervey,2018,2,27,57,1610612760,Texas-Arlington,College/University
+1628988,187.0,79.5,97.0,6.4,25.5,33.0,10.96,3.22,3.27,0,Aaron Holiday,2018,1,23,23,1610612754,California-Los Angeles,College/University
+1628989,194.0,79.5,101.5,8.6,31.0,38.0,10.89,2.97,3.09,9,Kevin Huerter,2018,1,19,19,1610612737,Maryland,College/University
+1628991,236.0,89.25,110.0,7.2,0.0,0.0,0.0,0.0,0.0,0,Jaren Jackson Jr.,2018,1,4,4,1610612763,Michigan State,College/University
+1628993,216.6,80.75,103.0,8.1,25.0,31.0,11.83,3.28,3.38,8,Alize Johnson,2018,2,20,50,1610612754,Missouri State,College/University
+1628994,218.6,83.5,101.5,7.25,31.0,39.0,10.75,3.08,3.29,15,George King,2018,2,29,59,1610612756,Colorado,College/University
+1628995,212.6,83.75,108.0,4.95,0.0,0.0,0.0,0.0,0.0,0,Kevin Knox II,2018,1,9,9,1610612752,Kentucky,College/University
+1628998,188.6,82.25,102.5,5.45,29.0,36.5,10.64,3.05,3.09,4,Cody Martin,2019,2,6,36,1610612766,North Carolina State,College/University
+1629001,193.2,80.5,99.5,5.2,31.0,36.5,11.48,3.33,3.23,1,De'Anthony Melton,2018,2,16,46,1610612745,Southern California,College/University
+1629002,219.6,84.5,108.0,5.05,29.5,36.0,11.89,3.25,3.33,5,Chimezie Metu,2018,2,19,49,1610612749,Southern California,College/University
+1629003,207.2,84.75,99.5,6.8,30.0,33.0,11.07,3.19,3.25,2,Shake Milton,2018,2,24,54,1610612742,Southern Methodist,College/University
+1629006,210.8,84.0,102.0,5.2,33.0,42.0,11.08,3.03,3.04,12,Josh Okogie,2018,1,20,20,1610612750,Georgia Tech,College/University
+1629008,211.0,84.25,108.5,6.4,0.0,0.0,0.0,0.0,0.0,0,Michael Porter Jr.,2018,1,14,14,1610612743,Missouri,College/University
+1629010,188.4,79.25,98.0,6.05,0.0,0.0,0.0,0.0,0.0,0,Jerome Robinson,2018,1,13,13,1610612746,Boston College,College/University
+1629012,183.0,79.25,98.5,5.6,0.0,0.0,0.0,0.0,0.0,0,Collin Sexton,2018,1,8,8,1610612739,Alabama,College/University
+1629013,188.6,78.75,100.0,4.85,31.0,39.5,11.26,3.21,3.11,8,Landry Shamet,2018,1,26,26,1610612755,Wichita State,College/University
+1629014,183.2,81.25,99.5,7.7,32.0,41.5,11.27,3.16,3.1,1,Anfernee Simons,2018,1,24,24,1610612757,IMG Academy,High School
+1629015,198.6,81.75,100.0,6.05,33.0,41.5,11.02,3.15,3.05,10,Zhaire Smith,2018,1,16,16,1610612756,Texas Tech,College/University
+1629034,215.4,88.75,109.0,5.55,26.0,32.0,11.48,3.2,3.34,12,Ray Spalding,2018,2,26,56,1610612755,Louisville,College/University
+1629016,253.8,86.0,107.5,13.75,28.5,35.5,12.28,3.35,3.38,8,Omari Spellman,2018,1,30,30,1610612737,Villanova,College/University
+1629017,198.8,82.5,101.0,6.4,30.0,35.0,10.96,3.18,3.18,14,Khyri Thomas,2018,2,8,38,1610612755,Creighton,College/University
+1629018,204.2,80.75,98.0,7.0,33.5,39.5,11.37,2.99,3.12,12,Gary Trent Jr.,2018,2,7,37,1610612758,Duke,College/University
+1629022,196.2,82.25,99.5,5.65,31.5,40.0,10.87,2.91,3.06,12,Lonnie Walker IV,2018,1,18,18,1610612759,Miami (FL),College/University
+1629023,223.0,86.5,107.0,6.85,27.0,34.0,11.39,3.43,3.2,3,P.J. Washington,2019,1,12,12,1610612766,Kentucky,College/University
+1629027,177.8,75.0,95.5,5.35,0.0,0.0,0.0,0.0,0.0,0,Trae Young,2018,1,5,5,1610612742,Oklahoma,College/University
+1629638,203.8,81.5,102.0,5.9,0.0,0.0,0.0,0.0,0.0,0,Nickeil Alexander-Walker,2019,1,17,17,1610612751,Virginia Tech,College/University
+1629628,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,RJ Barrett,2019,1,3,3,1610612752,Duke,College/University
+1629646,239.0,87.5,109.5,8.5,29.0,33.0,12.65,3.27,3.53,7,Charles Bassey,2021,2,23,53,1610612755,Western Kentucky,College/University
+1629647,208.4,84.0,107.0,3.6,30.5,37.0,11.09,2.95,3.27,4,Darius Bazley,2019,1,23,23,1610612762,Princeton,High School
+1629626,208.0,91.0,115.5,7.1,0.0,0.0,0.0,0.0,0.0,0,Bol Bol,2019,2,14,44,1610612748,Oregon,College/University
+1629648,179.0,75.25,95.0,5.0,36.0,42.5,9.97,2.78,3.08,7,Jordan Bone,2019,2,27,57,1610612740,Tennessee,College/University
+1629649,220.8,81.25,102.0,6.0,31.0,36.5,11.06,3.17,3.36,13,Ignas Brazdeikis,2019,2,17,47,1610612758,Michigan,College/University
+1629634,207.2,80.25,102.0,4.9,34.0,40.5,10.61,3.05,3.15,10,Brandon Clarke,2019,1,21,21,1610612760,Gonzaga,College/University
+1629651,216.6,86.5,110.0,4.5,31.5,36.5,11.26,3.47,3.36,8,Nic Claxton,2019,2,1,31,1610612751,Georgia,College/University
+1629633,194.2,81.5,100.5,5.0,0.0,0.0,0.0,0.0,0.0,0,Jarrett Culver,2019,1,6,6,1610612756,Texas Tech,College/University
+1629655,237.6,86.5,110.0,5.9,32.5,36.5,11.61,3.19,3.25,5,Daniel Gafford,2019,2,8,38,1610612741,Arkansas,College/University
+1629636,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Darius Garland,2019,1,5,5,1610612739,Vanderbilt,College/University
+1629656,209.6,79.75,100.5,8.4,27.5,36.0,10.83,3.28,3.2,6,Quentin Grimes,2021,1,25,25,1610612746,Houston,College/University
+1629657,167.8,76.5,95.5,5.7,30.5,36.5,10.48,3.07,3.27,4,Kyle Guy,2019,2,25,55,1610612752,Virginia,College/University
+1629637,218.6,87.5,110.5,5.0,27.0,34.5,11.74,3.23,3.37,5,Jaxson Hayes,2019,1,8,8,1610612737,Texas,College/University
+1629608,232.8,85.75,107.0,6.1,30.5,35.5,11.46,3.25,3.28,13,Dewan Hernandez,2019,2,29,59,1610612761,Miami (FL),College/University
+1629639,192.4,75.25,100.5,7.1,0.0,0.0,0.0,0.0,0.0,0,Tyler Herro,2019,1,13,13,1610612748,Kentucky,College/University
+1629659,235.4,85.25,103.0,8.4,26.0,34.5,11.34,3.43,3.34,10,Talen Horton-Tucker,2019,2,16,46,1610612753,Iowa State,College/University
+1629631,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,De'Andre Hunter,2019,1,4,4,1610612747,Virginia,College/University
+1629660,194.4,76.0,98.0,6.5,26.0,31.5,11.21,3.12,3.4,2,Ty Jerome,2019,1,24,24,1610612755,Virginia,College/University
+1629640,216.4,81.25,104.0,5.6,0.0,0.0,0.0,0.0,0.0,0,Keldon Johnson,2019,1,29,29,1610612759,Kentucky,College/University
+1629661,205.2,82.0,103.0,5.8,30.5,36.5,10.52,3.28,3.26,0,Cameron Johnson,2019,1,11,11,1610612750,North Carolina,College/University
+1629662,256.2,87.0,109.5,5.1,28.0,35.5,11.21,3.3,3.25,6,Mfiondu Kabengele,2019,1,27,27,1610612751,Florida State,College/University
+1629641,0.0,83.0,103.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Romeo Langford,2019,1,14,14,1610612738,Indiana,College/University
+1629642,224.2,85.25,104.5,5.9,31.0,38.5,12.15,3.1,3.24,5,Nassir Little,2019,1,25,25,1610612757,North Carolina,College/University
+1629611,204.6,79.75,101.0,4.0,32.5,38.5,11.51,3.14,3.3,6,Terance Mann,2019,2,18,48,1610612746,Florida State,College/University
+1629667,191.6,84.25,105.5,5.7,29.5,33.5,11.54,3.23,3.32,0,Jalen McDaniels,2019,2,22,52,1610612766,San Diego,College/University
+1629630,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Ja Morant,2019,1,2,2,1610612763,Murray State,College/University
+1629669,202.4,79.25,98.0,6.1,32.0,38.5,10.76,3.13,3.23,2,Jaylen Nowell,2019,2,13,43,1610612750,Washington,College/University
+1629670,220.0,82.5,103.0,7.8,0.0,0.0,0.0,0.0,0.0,0,Jordan Nwora,2020,2,15,45,1610612749,Louisville,College/University
+1629643,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Chuma Okeke,2019,1,16,16,1610612753,Auburn,College/University
+1629644,209.6,85.75,106.5,4.6,30.5,37.0,10.88,3.13,3.38,9,KZ Okpala,2019,2,2,32,1610612756,Stanford,College/University
+1629671,205.6,82.75,100.5,4.9,30.5,38.5,11.71,3.12,3.17,19,Miye Oni,2019,2,28,58,1610612744,Yale,College/University
+1629672,254.4,87.75,103.5,6.3,33.0,38.0,11.63,3.26,3.3,18,Eric Paschall,2019,2,11,41,1610612744,Villanova,College/University
+1629617,250.8,84.5,106.0,6.7,28.5,31.5,12.46,3.4,3.3,15,Reggie Perry,2020,2,27,57,1610612746,Mississippi State,College/University
+1629673,190.8,78.75,99.5,7.5,28.0,35.5,10.59,3.14,3.27,0,Jordan Poole,2019,1,28,28,1610612744,Michigan,College/University
+1629645,212.6,81.0,103.0,5.1,27.0,34.0,10.82,3.03,3.14,2,Kevin Porter Jr.,2019,1,30,30,1610612749,Southern California,College/University
+1629674,225.8,88.25,111.5,6.3,24.0,32.5,12.04,3.45,3.73,1,Neemias Queta,2021,2,9,39,1610612758,Utah State,College/University
+1629629,207.8,84.5,105.5,4.7,0.0,0.0,0.0,0.0,0.0,0,Cam Reddish,2019,1,10,10,1610612737,Duke,College/University
+1629676,214.0,85.0,106.0,3.9,32.5,35.5,10.63,3.05,3.25,9,Isaiah Roby,2019,2,15,45,1610612765,Nebraska,College/University
+1629677,227.2,82.5,107.0,5.6,27.0,38.0,11.01,3.03,3.27,7,Luka Samanic,2019,1,19,19,1610612759,KK Olimpija (Slovenia),Other Team/Club
+1629678,240.6,81.75,102.5,6.8,30.0,34.0,10.77,2.87,3.37,15,Admiral Schofield,2019,2,12,42,1610612755,Tennessee,College/University
+1629621,196.8,84.25,103.5,4.7,29.5,36.5,11.16,3.04,3.37,9,Marial Shayok,2019,2,24,54,1610612755,Virginia,College/University
+1629682,172.4,74.25,93.5,6.6,30.5,40.5,10.76,3.11,3.07,5,Tremont Waters,2019,2,21,51,1610612738,Louisiana State,College/University
+1629683,206.6,81.0,100.0,6.1,31.0,38.0,11.57,3.15,3.16,0,Quinndary Weatherspoon,2019,2,19,49,1610612759,Mississippi State,College/University
+1629632,191.4,77.0,97.5,4.3,0.0,0.0,0.0,0.0,0.0,0,Coby White,2019,1,7,7,1610612741,North Carolina,College/University
+1629684,240.2,81.75,104.5,5.4,26.0,31.5,10.83,3.27,3.33,20,Grant Williams,2019,1,22,22,1610612738,Tennessee,College/University
+1629627,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Zion Williamson,2019,1,1,1,1610612740,Duke,College/University
+1629685,195.8,82.0,104.5,4.6,29.0,37.5,10.7,2.94,3.3,8,Dylan Windler,2019,1,26,26,1610612739,Belmont,College/University
+1630173,234.0,84.75,108.5,6.7,0.0,0.0,0.0,0.0,0.0,0,Precious Achiuwa,2020,1,20,20,1610612748,Memphis,College/University
+1630189,212.8,85.25,105.5,5.0,37.0,43.5,11.35,2.75,3.17,0,Tyler Bey,2020,2,6,36,1610612755,Colorado,College/University
+1629604,198.6,79.25,100.5,4.2,30.5,36.5,11.25,2.63,3.25,0,CJ Elleby,2020,2,16,46,1610612757,Washington State,College/University
+1630182,214.0,81.75,101.5,6.8,30.5,39.5,10.64,2.28,3.12,0,Josh Green,2020,1,18,18,1610612742,Arizona,College/University
+1630223,193.4,79.0,97.5,4.4,37.5,42.5,10.59,2.49,3.11,0,Jalen Harris,2020,2,29,59,1610612761,Nevada-Reno,College/University
+1630190,229.0,79.5,101.5,10.2,0.0,0.0,0.0,0.0,0.0,0,Elijah Hughes,2020,2,9,39,1610612740,Syracuse,College/University
+1630198,170.4,79.5,101.0,4.7,0.0,0.0,0.0,0.0,0.0,0,Isaiah Joe,2020,2,19,49,1610612755,Arkansas,College/University
+1630177,187.4,80.75,100.5,2.8,0.0,0.0,0.0,0.0,0.0,0,Theo Maledon,2020,2,4,34,1610612755,ASVEL Basket (France),Other Team/Club
+1630231,213.2,79.25,102.0,5.9,31.5,38.5,11.93,2.58,3.16,0,Kenyon Martin Jr.,2020,2,22,52,1610612758,IMG Academy,High School
+1630219,204.0,78.0,99.0,7.4,29.0,37.5,10.65,2.4,3.3,0,Skylar Mays,2020,2,20,50,1610612737,Louisiana State,College/University
+1630192,246.8,86.0,105.5,5.9,33.0,38.0,10.94,2.72,3.2,0,Zeke Nnaji,2020,1,22,22,1610612743,Arizona,College/University
+1630193,185.8,80.25,99.0,8.2,29.5,35.5,11.21,2.46,3.17,0,Immanuel Quickley,2020,1,25,25,1610612760,Kentucky,College/University
+1630186,193.4,78.0,100.5,3.4,0.0,0.0,0.0,0.0,0.0,0,Jahmi'us Ramsey,2020,2,13,43,1610612758,Texas Tech,College/University
+1630194,219.2,86.0,109.5,6.83,26.5,37.5,12.29,2.67,3.45,0,Paul Reed,2020,2,28,58,1610612755,DePaul,College/University
+1630208,241.6,86.25,110.0,8.5,30.0,34.0,11.42,2.92,3.25,0,Nick Richards,2020,2,12,42,1610612740,Kentucky,College/University
+1630203,178.4,77.25,96.5,5.4,32.5,39.5,11.17,2.45,3.07,0,Grant Riller,2020,2,26,56,1610612766,College of Charleston,College/University
+1630206,185.2,81.5,104.5,3.7,0.0,0.0,0.0,0.0,0.0,0,Jay Scrubb,2020,2,25,55,1610612751,John A. Logan,College/University
+1630188,224.6,86.25,110.0,3.7,0.0,0.0,0.0,0.0,0.0,0,Jalen Smith,2020,1,10,10,1610612756,Maryland,College/University
+1630199,201.6,79.0,99.5,5.8,34.5,44.0,11.4,2.43,3.09,0,Cassius Stanley,2020,2,24,54,1610612754,Duke,College/University
+1630191,243.0,88.75,108.5,7.5,0.0,0.0,0.0,0.0,0.0,0,Isaiah Stewart,2020,1,16,16,1610612757,Washington,College/University
+1630179,170.0,73.75,96.0,7.6,30.0,34.0,10.78,2.59,3.28,0,Tyrell Terry,2020,2,1,31,1610612742,Stanford,College/University
+1630214,266.5,86.0,106.0,8.5,26.0,32.5,11.8,3.01,3.49,0,Xavier Tillman,2020,2,5,35,1610612758,Michigan State,College/University
+1630216,196.0,78.0,97.0,9.0,24.0,28.0,11.15,2.74,3.61,0,Cassius Winston,2020,2,23,53,1610612760,Michigan State,College/University
+1630218,230.2,86.0,105.5,4.5,32.0,38.0,11.1,2.49,3.18,0,Robert Woodard II,2020,2,10,40,1610612763,Mississippi State,College/University
+1630534,216.8,82.25,104.0,5.4,32.0,39.0,10.77,3.11,3.13,0,Ochai Agbaji,2022,1,14,14,1610612739,Kansas,College/University
+1631116,230.8,85.75,110.5,8.9,23.5,26.5,12.25,3.3,3.45,0,Patrick Baldwin Jr.,2022,1,28,28,1610612744,Wisconsin-Milwaukee,College/University
+1631094,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Paolo Banchero,2022,1,1,1,1610612753,Duke,College/University
+1630699,196.6,84.75,106.0,5.3,0.0,0.0,0.0,0.0,0.0,0,MarJon Beauchamp,2022,1,24,24,1610612749,Ignite (G League),Other Team/Club
+1630656,180.4,77.5,102.0,8.8,24.5,31.5,11.36,3.25,3.4,0,Hugo Besson,2022,2,28,58,1610612754,Breakers (New Zealand),Other Team/Club
+1631103,194.8,82.0,102.5,6.1,29.0,35.0,11.38,3.09,3.17,0,Malaki Branham,2022,1,20,20,1610612759,Ohio State,College/University
+1631128,209.2,78.5,99.5,6.2,33.5,40.0,11.0,3.13,3.16,0,Christian Braun,2022,1,21,21,1610612743,Kansas,College/University
+1631112,201.2,83.0,103.0,4.9,31.5,41.0,11.57,3.05,3.29,0,Kendall Brown,2022,2,18,48,1610612750,Baylor,College/University
+1631113,172.2,77.25,97.0,4.4,31.0,41.5,10.73,2.89,0.0,0,Kennedy Chandler,2022,2,8,38,1610612759,Tennessee,College/University
+1631108,189.2,80.75,102.5,4.8,32.0,37.5,10.82,3.02,3.07,0,Max Christie,2022,2,5,35,1610612747,Michigan State,College/University
+1630700,195.2,82.5,105.0,4.9,29.0,34.0,10.81,2.81,3.22,0,Dyson Daniels,2022,1,8,8,1610612740,Ignite (G League),Other Team/Club
+1631098,196.4,80.5,103.5,6.7,0.0,0.0,0.0,0.0,0.0,0,Johnny Davis,2022,1,10,10,1610612764,Wisconsin,College/University
+1631120,191.8,78.5,99.5,7.8,30.0,37.0,11.38,3.23,3.26,0,J.D. Davison,2022,2,23,53,1610612738,Alabama,College/University
+1631217,216.6,86.5,109.5,2.7,29.0,36.5,11.16,2.9,3.26,0,Moussa Diabate,2022,2,13,43,1610612746,Michigan,College/University
+1631172,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Ousmane Dieng,2022,1,11,11,1610612752,Breakers (New Zealand),Other Team/Club
+1631215,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Khalifa Diop,2022,2,9,39,1610612739,CB Gran Canaria (Spain),Other Team/Club
+1631105,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Jalen Duren,2022,1,13,13,1610612766,Memphis,College/University
+1631106,217.4,86.0,107.5,5.9,0.0,0.0,0.0,0.0,0.0,0,Tari Eason,2022,1,17,17,1610612745,Louisiana State,College/University
+1631100,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,AJ Griffin,2022,1,16,16,1610612737,Duke,College/University
+1630702,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Jaden Hardy,2022,2,7,37,1610612758,Ignite (G League),Other Team/Club
+1631096,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Chet Holmgren,2022,1,2,2,1610612760,Gonzaga,College/University
+1631093,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Jaden Ivey,2022,1,5,5,1610612765,Purdue,College/University
+1631218,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Trayce Jackson-Davis,2023,2,27,57,1610612764,Indiana,College/University
+1631107,222.6,84.25,108.5,7.4,0.0,0.0,0.0,0.0,0.0,0,Nikola Jovic,2022,1,27,27,1610612748,KK Mega Leks (Serbia),Other Team/Club
+1631130,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Ismael Kamagate,2022,2,16,46,1610612765,Paris (France),Other Team/Club
+1631211,223.8,79.25,101.0,13.5,24.5,31.0,11.33,3.32,3.27,0,Trevor Keels,2022,2,12,42,1610612752,Duke,College/University
+1631117,256.0,88.25,113.0,14.7,0.0,0.0,0.0,0.0,0.0,0,Walker Kessler,2022,1,22,22,1610612763,Auburn,College/University
+1631132,221.0,89.25,113.0,5.7,28.0,33.5,11.3,3.19,3.27,0,Christian Koloko,2022,2,3,33,1610612761,Arizona,College/University
+1631222,227.2,81.5,104.0,9.0,27.5,34.0,10.58,2.89,3.37,0,Jake LaRavia,2022,1,19,19,1610612750,Wake Forest,College/University
+1630604,243.0,83.75,103.5,12.2,35.5,38.0,11.11,3.23,3.26,0,E.J. Liddell,2022,2,11,41,1610612740,Ohio State,College/University
+1631213,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Tyrese Martin,2022,2,21,51,1610612744,Connecticut,College/University
+1631097,204.6,81.0,104.0,5.7,0.0,0.0,0.0,0.0,0.0,0,Bennedict Mathurin,2022,1,6,6,1610612754,Arizona,College/University
+1631121,181.2,80.75,103.5,5.4,29.5,34.0,11.12,3.16,3.27,0,Bryce McGowens,2022,2,10,40,1610612750,Nebraska,College/University
+1631159,211.0,86.0,106.5,5.7,30.0,36.5,11.11,3.02,3.36,0,Leonard Miller,2023,2,3,33,1610612759,Ignite (G League),Other Team/Club
+1631111,217.2,84.5,101.0,7.5,32.5,38.5,10.94,3.21,3.3,0,Wendell Moore Jr.,2022,1,26,26,1610612742,Duke,College/University
+1631099,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Keegan Murray,2022,1,4,4,1610612758,Iowa,College/University
+1629614,195.6,77.75,99.0,4.4,26.5,35.0,10.46,3.02,3.26,0,Andrew Nembhard,2022,2,1,31,1610612754,Gonzaga,College/University
+1630629,192.8,80.0,106.0,3.8,29.5,35.0,11.02,3.14,3.07,0,Gabriele Procida,2022,2,6,36,1610612757,Fortitudo Pallacanestro Bologna (Italy),Other Team/Club
+1631223,260.8,83.5,105.0,11.6,27.0,35.5,10.75,3.1,3.22,0,David Roddy,2022,1,23,23,1610612755,Colorado State,College/University
+1631157,179.2,81.75,100.5,5.0,30.5,36.5,11.26,3.28,3.07,0,Ryan Rollins,2022,2,14,44,1610612737,Toledo,College/University
+1631204,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Marcus Sasser,2023,1,25,25,1610612763,Houston,College/University
+1631101,198.0,83.5,103.5,4.8,0.0,0.0,0.0,0.0,0.0,0,Shaedon Sharpe,2022,1,7,7,1610612757,Kentucky,College/University
+1631095,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Jabari Smith Jr.,2022,1,3,3,1610612745,Auburn,College/University
+1631110,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Jeremy Sochan,2022,1,9,9,1610612759,Baylor,College/University
+1631164,196.2,80.0,102.0,8.6,25.5,31.5,11.42,3.16,3.4,0,Matteo Spagnolo,2022,2,20,50,1610612750,Vanoli Cremona (Italy),Other Team/Club
+1631124,207.6,81.5,104.5,7.9,28.5,35.0,10.3,3.37,3.26,0,Julian Strawther,2023,1,29,29,1610612754,Gonzaga,College/University
+1631207,195.2,84.75,106.0,5.4,0.0,0.0,0.0,0.0,0.0,0,Dalen Terry,2022,1,18,18,1610612741,Arizona State,College/University
+1631133,213.8,82.75,105.0,12.1,29.5,32.5,11.53,3.12,3.24,0,Jabari Walker,2022,2,27,57,1610612757,Colorado,College/University
+1631102,196.4,80.0,99.5,12.0,0.0,0.0,0.0,0.0,0.0,0,TyTy Washington Jr.,2022,1,29,29,1610612763,Kentucky,College/University
+1631212,203.4,84.5,107.5,5.2,28.0,33.5,11.03,3.24,3.28,0,Peyton Watson,2022,1,30,30,1610612760,California-Los Angeles,College/University
+1631104,187.2,81.25,103.0,5.6,30.0,36.0,11.55,3.25,3.21,0,Blake Wesley,2022,1,25,25,1610612759,Notre Dame,College/University
+1631114,209.2,86.25,105.5,8.9,33.5,39.0,11.13,3.17,3.11,0,Jalen Williams,2022,1,12,12,1610612760,Santa Clara,College/University
+1631119,236.6,85.0,108.5,8.0,24.5,30.0,11.64,3.1,3.5,0,Jaylin Williams,2022,2,4,34,1610612760,Arkansas,College/University
+1631109,242.4,90.5,117.0,5.4,0.0,0.0,0.0,0.0,0.0,0,Mark Williams,2022,1,15,15,1610612766,Duke,College/University
+1630592,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Jalen Wilson,2023,2,21,51,1610612751,Kansas,College/University
+1641735,190.8,79.0,103.5,0.0,28.5,35.0,11.34,0.0,3.19,0,Amari Bailey,2023,2,11,41,1610612766,California-Los Angeles,College/University
+1641734,179.2,81.0,105.0,0.0,27.0,32.5,11.54,0.0,3.49,0,Emoni Bates,2023,2,19,49,1610612739,Eastern Michigan,College/University
+1641710,210.0,79.5,102.5,0.0,32.0,39.0,11.04,0.0,3.35,0,Anthony Black,2023,1,6,6,1610612753,Arkansas,College/University
+1641738,252.2,84.75,106.5,0.0,28.5,32.0,11.39,3.23,3.33,0,Kobe Brown,2023,1,30,30,1610612746,Missouri,College/University
+1641723,186.8,79.75,102.5,0.0,29.0,36.0,11.71,0.0,3.26,0,Kobe Bufkin,2023,1,15,15,1610612737,Michigan,College/University
+1641739,220.4,84.5,107.0,0.0,28.5,33.0,10.7,3.19,3.41,0,Toumani Camara,2023,2,22,52,1610612756,Dayton,College/University
+1631321,223.8,81.75,104.0,0.0,30.5,35.5,11.24,0.0,3.31,0,Sidy Cissoko,2023,2,14,44,1610612759,Ignite (G League),Other Team/Club
+1641740,204.2,81.0,101.5,0.0,0.0,0.0,0.0,0.0,0.0,0,Jaylen Clark,2023,2,23,53,1610612750,California-Los Angeles,College/University
+1641730,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Noah Clowney,2023,1,21,21,1610612751,Alabama,College/University
+1641731,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Bilal Coulibaly,2023,1,7,7,1610612754,Metropolitans 92 (France),Other Team/Club
+1641711,204.0,80.75,101.0,0.0,29.0,34.0,11.13,2.98,3.5,0,Gradey Dick,2023,1,13,13,1610612761,Kansas,College/University
+1641718,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Keyonte George,2023,1,16,16,1610612762,Baylor,College/University
+1631243,212.6,87.25,110.5,0.0,0.0,0.0,0.0,0.0,0.0,0,Mouhamed Gueye,2023,2,9,39,1610612766,Washington State,College/University
+1641722,186.0,78.75,101.5,0.0,0.0,0.0,0.0,0.0,0.0,0,Jordan Hawkins,2023,1,14,14,1610612740,Connecticut,College/University
+1630703,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Scoot Henderson,2023,1,3,3,1610612757,Ignite (G League),Other Team/Club
+1641707,213.6,84.5,107.0,0.0,32.5,36.0,11.27,0.0,3.32,0,Taylor Hendricks,2023,1,9,9,1610612762,Central Florida,College/University
+1641720,216.6,82.25,100.5,0.0,0.0,0.0,0.0,0.0,0.0,0,Jalen Hood-Schifino,2023,1,17,17,1610612747,Indiana,College/University
+1641724,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Jett Howard,2023,1,11,11,1610612753,Michigan,College/University
+1641713,214.4,83.5,106.0,0.0,31.0,37.0,11.39,0.0,3.21,0,GG Jackson II,2023,2,15,45,1610612763,South Carolina,College/University
+1641748,198.4,81.75,103.0,0.0,30.5,39.5,10.83,0.0,3.14,0,Andre Jackson Jr.,2023,2,6,36,1610612753,Connecticut,College/University
+1631170,226.4,81.5,99.5,0.0,34.5,39.0,11.21,0.0,3.33,0,Jaime Jaquez Jr.,2023,1,18,18,1610612748,California-Los Angeles,College/University
+1641749,238.6,84.0,103.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Keyontae Johnson,2023,2,20,50,1610612760,Kansas State,College/University
+1641732,199.2,80.0,103.0,0.0,30.5,35.0,11.14,3.13,3.33,0,Colby Jones,2023,2,4,34,1610612766,Xavier,College/University
+1631340,200.6,80.0,101.0,0.0,33.5,42.0,11.07,0.0,3.18,0,Mojave King,2023,2,17,47,1610612747,Ignite (G League),Other Team/Club
+1641721,207.2,84.0,104.5,0.0,32.5,36.5,11.4,0.0,3.43,0,Maxwell Lewis,2023,2,10,40,1610612743,Pepperdine,College/University
+1641726,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Dereck Lively II,2023,1,12,12,1610612760,Duke,College/University
+1641753,219.2,83.25,104.5,0.0,30.5,37.0,11.65,0.0,3.27,0,Chris Livingston,2023,2,28,58,1610612749,Kentucky,College/University
+1641754,214.4,82.25,104.0,0.0,31.5,35.5,11.02,0.0,3.15,0,Seth Lundy,2023,2,16,46,1610612737,Penn State,College/University
+1641757,191.6,83.75,103.5,0.0,32.0,36.5,11.43,3.21,3.17,0,Jordan Miller,2023,2,18,48,1610612746,Miami (FL),College/University
+1641706,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Brandon Miller,2023,1,2,2,1610612766,Alabama,College/University
+1631200,212.8,83.75,106.0,0.0,29.5,35.0,11.11,0.0,3.3,0,Kris Murray,2023,1,23,23,1610612757,Iowa,College/University
+1641762,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,James Nnaji,2023,2,1,31,1610612765,FC Barcelona Basquet (Spain),Other Team/Club
+1641763,196.6,83.5,102.0,0.0,36.0,43.0,11.09,0.0,3.32,0,Julian Phillips,2023,2,5,35,1610612738,Tennessee,College/University
+1629618,197.8,79.25,98.5,0.0,28.5,33.0,11.91,3.41,3.35,0,Jalen Pickett,2023,2,2,32,1610612754,Penn State,College/University
+1641764,203.8,77.5,96.5,0.0,31.5,39.0,11.16,3.2,3.21,0,Brandin Podziemski,2023,1,19,19,1610612744,Santa Clara,College/University
+1641765,212.4,85.0,104.0,0.0,35.0,40.5,10.59,3.0,3.21,0,Olivier-Maxence Prosper,2023,1,24,24,1610612758,Marquette,College/University
+1641712,193.2,86.0,106.0,0.0,27.5,32.5,11.18,0.0,3.43,0,Rayan Rupert,2023,2,13,43,1610612757,Breakers (New Zealand),Other Team/Club
+1641729,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Brice Sensabaugh,2023,1,28,28,1610612762,Ohio State,College/University
+1641767,194.6,79.75,100.0,0.0,29.5,35.5,10.88,2.98,3.17,0,Ben Sheppard,2023,1,26,26,1610612754,Belmont,College/University
+1641771,221.6,83.75,106.0,0.0,29.0,33.0,11.26,0.0,3.29,0,Jalen Slawson,2023,2,24,54,1610612758,Furman,College/University
+1641733,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Nick Smith Jr.,2023,1,27,27,1610612766,Arkansas,College/University
+1641708,214.2,84.0,103.5,0.0,0.0,0.0,0.0,0.0,0.0,0,Amen Thompson,2023,1,4,4,1610612745,Overtime Elite,Other Team/Club
+1641709,218.2,84.0,104.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Ausar Thompson,2023,1,5,5,1610612765,Overtime Elite,Other Team/Club
+1641774,223.4,86.5,111.0,0.0,26.0,30.5,11.71,3.16,3.43,0,Tristan Vukcevic,2023,2,12,42,1610612764,Real Madrid Baloncesto (Spain),Other Team/Club
+1641716,248.6,86.5,104.5,0.0,34.5,38.0,10.89,0.0,3.2,0,Jarace Walker,2023,1,8,8,1610612764,Houston,College/University
+1641717,195.2,80.5,101.0,0.0,28.0,36.0,10.82,0.0,3.34,0,Cason Wallace,2023,1,10,10,1610612742,Kentucky,College/University
+1641775,204.0,85.75,107.0,0.0,33.0,36.0,10.83,0.0,3.3,0,Jordan Walsh,2023,2,8,38,1610612758,Arkansas,College/University
+1641705,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Victor Wembanyama,2023,1,1,1,1610612759,Metropolitans 92 (France),Other Team/Club
+1641727,217.2,82.25,103.5,0.0,0.0,0.0,0.0,0.0,0.0,0,Dariq Whitehead,2023,1,22,22,1610612751,Duke,College/University
+1641715,235.0,80.5,103.5,0.0,31.5,40.5,10.82,3.33,3.2,0,Cam Whitmore,2023,1,20,20,1610612745,Villanova,College/University
+1631209,178.4,78.75,97.5,0.0,32.5,37.0,10.93,0.0,3.22,0,Isaiah Wong,2023,2,25,55,1610612754,Miami (FL),College/University
