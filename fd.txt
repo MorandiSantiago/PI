@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "basketball-data-pi-37930",
+  "private_key_id": "c081d51dc20f2b6b61ca64c74896b4b949450772",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC1ocC65bgiRLRl\ngTN71cqTe6dmthi+qKVvQRjS5Eo1XetUcF7Zv/QGdQBUV9KgiP1xAW/XbuvkYz5y\nHpwxScZZzvEBJW0C74DX0qpg+XHc7ONntsbrhe6PPNFU2qOl4eM80kBz/6suRcB3\n/x3NjEks9m2Jcz1LmRV/MX69VUhN2d7TgkdKxADRhvfZoOg7Gl4IckMUv6C5sB83\nY+jjq53OvU/RUVO/qPa66dwrPDlV+rUwuFlY5EPV57xxafUoGpmSgj9BE6dA8mlX\nkhuez6MNhQ0fQOtCRln4JdLTj2e0KZNk4SfbIWoL6Q8uJwcwx0ronWvww+Lvw4D4\n7Amwh7gfAgMBAAECggEACLypqTPgqiFU7icLY3MSxgpmMI4k3ZL+Nj5S494gZbXJ\nWqv3HBFcOy1IoUYCNz+vtU5k41+OEFPnzpSDXemXFX3bYPs8Za5Aq+ER2g1VuVNZ\n0wTbR7wPECvUQ/kqcxHNHQFeIVZUlSq8yejnNZqAcJ3AAiMdeTP5cT9fwdrG2hvC\nf0WSdQroyGi2hdnuuRZsz56MOtHbkSzYP94UR86/wKpmteSIYZTCNXOaQ2mbPjr6\nX1AnaIJcfj0+Zq54CklGlg2z1i0SGBIhq0kLSfArk+0h3li/H6a25mhAgJ7+9iSq\n0x0MCDllzE4K5U4GGkhT7ivsn+n0m+EhkVDOJ1SVgQKBgQDuVspcGqQTmtznM4Zu\nsocB7iTap0buUofzXOuuVhJ8AV/fvr0eNOgRd7J3A0rEE1SOqnIHxahXmTZHMrLX\nHK6tuaedJi3VDeTFp+3rFTFe7XFd11+bhLGHgW2mLfnA0FJrG8iInlqB/5S0kCxs\nK1axwhVLHG8UYIU3SdibXZ0igQKBgQDDFz8lzxhZHBHkQ87TbR29856VwEDWNjzi\ngfg8rHQtvw9zNzkyPnMeK6Q7x9jhetNAciyZY1dzhGDZqVk51jTVcsFjI+Di4Co0\nR3ACVUjgmao3LgHBZVMAQPL5dQYdW3x0G8tDFn6M9boMJP1K9+y+duVzJOvOc33/\nbQaP+PZKnwKBgDt8U/Na/tqZy0q1NHdKfaHAs1gTagOve5kE9xnDB8gFe81XSNJS\nOB2r91H282Euxer5pY5FCfgbGE363GIOGZbogGobjlLfrdqbSCllV7Yuox3d1FH3\nc2uzpQ9V6ED0fa2X+JwIkeRiStYqKbwxsOia3T+q8Bpw4K7k8ngMjFyBAoGAEHPq\ncG7Zt9IlNCH/1FbUdkuQaUKwdSBX3CZn3/4PQjhlviq/GRypKrc1f5EoGkP4guve\nFQWKv4Q/grvEeZs2E3Y9FvZUpe2PwZ7wtFGq9r4e2852eW/pIxFXLHCRFnK7uTMK\n3lqMS6kBirqn3eWwwpNWYHKRrHSTALKaJhQx+TMCgYAd0o/okGvG+Ha4Qd2fzuaT\n3/p6ViMBoZhBtheWwUGz4n1Kt5A8N5iCJiHOONpRsxgLzrFdf7XMFvlP+boIeCa3\nvPM4EDZXzw7PF/AntCZ2XiB5BnzxVkOLJqnbVmf5ZihhqfNRyaJuiWrsEJS3DBv8\nOcAznJr47Dm2STfTMn+VTg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@basketball-data-pi-37930.iam.gserviceaccount.com",
+  "client_id": "102923606545138179397",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40basketball-data-pi-37930.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
