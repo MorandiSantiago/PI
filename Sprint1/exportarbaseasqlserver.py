@@ -3,9 +3,9 @@ import pandas as pd
 from sqlalchemy import create_engine, text
 
 # Datos de conexión
-sqlite_db_path = r'C:\Users\emava\Documents\PLASS\Henry\PF_SPORTS_NBA\nba_cleaned_no_zeros_new.sqlite'  # Ruta completa a tu archivo SQLite
-sql_server = 'EMA\SQLEXPRESS'  # Reemplaza con el nombre de tu servidor y instancia, por ejemplo, 'localhost\\SQLEXPRESS'
-database_name = 'nba_modified_sql'  # Nombre de la base de datos de destino en SQL Server
+sqlite_db_path = # Ruta completa a tu archivo SQLite
+sql_server = # Reemplaza con el nombre de tu servidor y instancia, por ejemplo, 'localhost\\SQLEXPRESS'
+database_name = # Nombre de la base de datos de destino en SQL Server
 
 # Conexión a SQLite
 sqlite_conn = sqlite3.connect(sqlite_db_path)

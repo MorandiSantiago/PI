@@ -184,8 +184,8 @@ def recrear_play_by_play(original_db, nueva_db, table_name, columnas_a_eliminar)
 
 def main():
     # Rutas de las bases de datos
-    original_db = r"C:\Users\emava\Documents\PLASS\Henry\PF_SPORTS_NBA\nba.sqlite"
-    nueva_db = r"C:\Users\emava\Documents\PLASS\Henry\PF_SPORTS_NBA\nba_modified.sqlite"
+    original_db = # Ingresar Path BD original
+    nueva_db = # Ingresar Path BD nueva
 
     # Nombre de la tabla a procesar
     table_name = "play_by_play"
