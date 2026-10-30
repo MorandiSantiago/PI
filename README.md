@@ -1,5 +1,10 @@
 # Análisis de Datos de Traspasos en la NBA 🏀
 
+> **Configuración de Firebase:** los notebooks utilizan credenciales externas al
+> repositorio mediante Application Default Credentials (ADC). Antes de ejecutarlos,
+> consultar [SECURITY.md](./SECURITY.md) y [.env.example](./.env.example).
+> Las celdas de carga escriben en Firestore; usar un proyecto de pruebas.
+
 Bienvenido a nuestro proyecto de análisis de datos enfocado en los traspasos de jugadores en la NBA. Este estudio proporciona información clave para entrenadores, directores deportivos y managers, con el objetivo de optimizar la toma de decisiones en la construcción y gestión de equipos.
 
 ## 🏆 Contexto del Proyecto
