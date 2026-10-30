@@ -33,8 +33,10 @@ credenciales de ese entorno. Para desarrollo local con un JSON autorizado:
    inicializada anteriormente.
 
 El SDK resuelve ADC con `credentials.ApplicationDefault()`. Las celdas reutilizan
-la aplicación predeterminada si ya existe. Las rutas de los CSV y las dependencias
-de cada notebook todavía deben configurarse según el entorno local.
+la aplicación predeterminada si ya existe. La carga local y el monitor usan
+`PI_CSV_DIR` o `Dashboard/csv` desde el directorio de trabajo del kernel. Iniciar
+Jupyter desde la raíz del repositorio. Las dependencias directas y sus límites
+se describen en [README.md](./README.md) y [requirements.txt](./requirements.txt).
 
 Si se usa otro mecanismo ADC, no hace falta definir una ruta a un JSON. Nunca
 copiar credenciales al código, a los notebooks, a sus salidas o a los ejemplos.
@@ -44,6 +46,9 @@ copiar credenciales al código, a los notebooks, a sus salidas o a los ejemplos.
 Se retiraron dos archivos de credenciales de la versión actual del repositorio.
 Esta eliminación **no revoca las claves en Google Cloud ni las borra de commits
 anteriores, otras referencias, clones o copias**.
+
+Al 30 de octubre de 2026 no se pudo verificar la revocación en el proveedor.
+La revisión documental no cambia ese estado ni autoriza a reutilizar las claves.
 
 El administrador del proyecto de Google Cloud debe:
 

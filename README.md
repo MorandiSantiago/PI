@@ -1,62 +1,107 @@
-# Análisis de Datos de Traspasos en la NBA 🏀
+# Datos de la NBA — proyecto colaborativo de formación
 
-> **Configuración de Firebase:** los notebooks utilizan credenciales externas al
-> repositorio mediante Application Default Credentials (ADC). Antes de ejecutarlos,
-> consultar [SECURITY.md](./SECURITY.md) y [.env.example](./.env.example).
-> Las celdas de carga escriben en Firestore; usar un proyecto de pruebas.
+Proyecto de formación en análisis de datos desarrollado en equipo en 2025. Reúne datos de jugadores, equipos, partidos, draft y salarios, notebooks de carga a Firestore y un archivo de Power BI.
 
-Bienvenido a nuestro proyecto de análisis de datos enfocado en los traspasos de jugadores en la NBA. Este estudio proporciona información clave para entrenadores, directores deportivos y managers, con el objetivo de optimizar la toma de decisiones en la construcción y gestión de equipos.
+El objetivo original incluía explorar información para analizar equipos y traspasos. El repositorio conserva entregas de distintas etapas: **no constituye un pipeline único con actualización automática del dashboard verificada**.
 
-## 🏆 Contexto del Proyecto
+> **Seguridad pendiente:** las claves retiradas de la versión actual no deben reutilizarse. No se pudo verificar su revocación en Google Cloud. El historial conserva versiones anteriores; consultar [SECURITY.md](./SECURITY.md).
 
-En la NBA, las decisiones sobre traspasos pueden determinar el éxito o el fracaso de un equipo. Sin embargo, muchas de estas decisiones se basan en criterios subjetivos, lo que puede llevar a movimientos que no mejoran el rendimiento o que afectan negativamente las finanzas del equipo. Este proyecto ofrece una solución basada en datos para facilitar decisiones más informadas y estratégicas.
+## Qué se puede revisar
 
-## 🎯 Objetivo del Proyecto
+| Componente | Evidencia disponible | Alcance |
+|---|---|---|
+| Datos locales | 17 CSV en [Dashboard/csv](./Dashboard/csv) | Inventario reproducible sin conexión ni credenciales. Una tabla solo tiene encabezados. |
+| Carga de datos | [index.ipynb](./index.ipynb) | Alternativas de descarga desde Kaggle y carga de listas de CSV locales a Firestore. Escriben en una base remota. |
+| Monitor de archivos | [automatizacion.ipynb](./automatizacion.ipynb) | Reacciona a modificaciones de CSV y vuelve a cargarlos. Requiere ejecución continua y escribe en Firestore. |
+| Consulta de ejemplo | [instrucciones.ipynb](./instrucciones.ipynb) | Configuración ADC y lectura limitada de la colección `player`. |
+| Visualización | [Dashboard/ProyectoHenry.pbix](./Dashboard/ProyectoHenry.pbix) | Artefacto Power BI del equipo; apertura y actualización pendientes de validar en Desktop. |
+| SQL Server y otros experimentos | Ramas históricas del equipo | No están integrados como una instalación reproducible de `main`. Ver [mapa técnico](./docs/ARQUITECTURA.md). |
 
-Desarrollar un dashboard interactivo que visualice información clave sobre traspasos de jugadores, ayudando a identificar patrones, evaluar el impacto de las decisiones y optimizar la construcción de equipos. Este dashboard se actualizará de manera automática para proporcionar siempre datos precisos y actuales.
+**Tecnologías presentes en main:** Python, Pandas, Firebase Admin SDK/Firestore, kagglehub, watchdog, Jupyter y Power BI. La presencia de notebooks de ML o un borrador de IA en otra rama no acredita una integración de IA operativa.
 
-## 📊 Resultados Esperados e Impacto
+## Primera prueba: explorar datos sin Firebase
 
-- 📈 **Identificación de tendencias** en traspasos y rendimiento de equipos.
-- 🔍 **Datos filtrados y actualizados** para un análisis confiable.
-- 🤖 **Dashboard interactivo** y automatizado para facilitar el acceso a información relevante.
-- 🧠 **Mejora en la toma de decisiones** deportivas y financieras.
-- ⚙️ **Optimización de estrategias** mediante análisis detallados y comprensibles.
+Requisito: Python 3.10 o posterior. El inventario usa únicamente la biblioteca estándar.
 
-## 📂 Fuentes de Datos
+```sh
+git clone https://github.com/MorandiSantiago/PI.git
+cd PI
+python scripts/inspeccionar_datos.py
+```
 
-El dataset proviene de Kaggle y abarca estadísticas desde 1946 hasta 2023, con datos de:
-- 30 equipos profesionales.
-- Más de 4,800 jugadores.
-- Más de 65,000 partidos.
-- Más del 95% de los juegos registrados.
+También funciona al invocarlo desde otra carpeta: resuelve el directorio de datos respecto de su propia ubicación.
 
-## 🚧 Requerimientos del Caso
+```sh
+python scripts/inspeccionar_datos.py --json
+python scripts/inspeccionar_datos.py --carpeta Dashboard/csv
+```
 
-- 📥 Recopilar y organizar datos sobre equipos, jugadores, partidos y salarios.
-- 🔎 Análisis Exploratorio de Datos (EDA) para descubrir patrones relevantes.
-- 📊 Visualización interactiva y comprensible de la información en un dashboard.
-- 🔄 Implementación de automatización para la actualización continua de datos.
+La salida muestra nombre, número de registros, cantidad de columnas y registros con un ancho distinto del encabezado. No imprime filas de jugadores, no descarga datos, no necesita paquetes externos y no escribe archivos.
 
-## ⚙️ Tareas y Tecnologías Implementadas
+Extracto verificado el 30 de octubre de 2026:
 
-1. **Exploración Inicial de Datos**: Análisis preliminar para comprender la estructura del dataset.
-2. **Repositorio GitHub Público**: Para facilitar la colaboración y el seguimiento del proyecto.
-3. **Análisis Exploratorio de Datos (EDA)**: Usando Python y Jupyter Notebooks.
-4. **Base de Datos SQL Server**: Estructuración y administración de la información.
-5. **Automatización de Ingesta de Datos**: Implementada con Python para asegurar actualizaciones periódicas.
-6. **Dashboard Interactivo en Power BI**: Visualización clara y accesible para todos los usuarios.
+```text
+Archivo                             Filas  Columnas  Otro ancho
+game.csv                            17121        55           0
+player.csv                           4815         5           0
+team.csv                               30         7           0
+team_info_common.csv                    0        26           0
+Archivos: 17
+```
 
-## 🔍 Metodología de Trabajo
+El [inventario completo](./docs/DATOS.md) describe cantidades, duplicados y procedencia conocida. Estos conteos describen los archivos incluidos; no prueban calidad analítica, cobertura temporal ni actualidad.
 
-- **Análisis y Limpieza de Datos**: Aplicamos técnicas avanzadas de limpieza y transformación para garantizar la calidad de la información.
-- **Modelado y Análisis**: Utilizamos SQL Server para modelar las relaciones entre las tablas y obtener conclusiones relevantes.
-- **Automatización**: Creamos un sistema que detecta y carga automáticamente nuevos datos a la base.
-- **Desarrollo del Dashboard**: Implementamos un dashboard.
+## Preparar los notebooks: opcional y con efectos remotos
 
-## 🚀 Conclusiones
+No hace falta instalar estas dependencias para ejecutar el inventario anterior.
 
-Este proyecto proporciona una herramienta valiosa para los equipos de la NBA, facilitando la toma de decisiones informadas mediante un análisis de datos robusto y accesible. Con el dashboard interactivo, los usuarios podrán visualizar y comprender rápidamente el impacto de los traspasos, mejorando el rendimiento deportivo y la gestión financiera.
+El notebook principal registra Python 3.12.6 en sus metadatos. [requirements.txt](./requirements.txt) declara las dependencias directas; no conserva las versiones históricas ni un entorno congelado. La instalación de esas dependencias no se verificó en esta revisión.
 
-¡Esperamos que disfrutes explorando nuestra herramienta! 🏀📊
+Ejemplo en Windows, si se dispone de Python 3.12:
+
+```powershell
+py -3.12 -m venv .venv
+.\.venv\Scripts\python.exe -m pip install -r requirements.txt
+.\.venv\Scripts\python.exe -m jupyterlab
+```
+
+En Linux/macOS, crear el entorno con un Python compatible:
+
+```sh
+python3 -m venv .venv
+.venv/bin/python -m pip install -r requirements.txt
+.venv/bin/python -m jupyterlab
+```
+
+Iniciar Jupyter desde la raíz de PI. Antes de ejecutar celdas que acceden a Firestore:
+
+1. Usar un proyecto de pruebas propio y autenticación autorizada mediante ADC, siguiendo [SECURITY.md](./SECURITY.md).
+2. Definir las variables en la terminal que iniciará Jupyter. [.env.example](./.env.example) es una referencia, no se carga automáticamente.
+3. Para datos locales, usar `Dashboard/csv` o configurar `PI_CSV_DIR`. Las rutas relativas se resuelven desde la carpeta de trabajo del kernel.
+4. En [index.ipynb](./index.ipynb), elegir **una alternativa de carga**. No ejecutar `Run All`: algunas celdas vuelven a cargar las mismas tablas. La variante local se divide en una celda que define la función y otra que usa su segunda lista.
+5. Leer el [mapa de operaciones y limitaciones](./docs/ARQUITECTURA.md) antes de iniciar el monitor o una carga.
+
+`play_by_play.csv` no está incluido en `main`. Se retiró de la selección local que lo solicitaba; las opciones de Kaggle dependen del contenido descargado. El monitor no instala tareas programadas ni actualiza Power BI.
+
+## Dashboard
+
+Ver [instrucciones y alcance del PBIX](./Dashboard/README.md). Su estructura interna contiene las páginas `General`, `Página 1` y `Traspasos`. Esto se verificó leyendo metadatos del archivo, sin abrir Power BI ni comprobar sus resultados.
+
+## Organización y trabajo en equipo
+
+- [docs/ARQUITECTURA.md](./docs/ARQUITECTURA.md): flujos presentes, operaciones y mapa de ramas.
+- [docs/DATOS.md](./docs/DATOS.md): tablas disponibles y procedencia.
+- [docs/VALIDACION.md](./docs/VALIDACION.md): comprobaciones realizadas y pendientes.
+- [SECURITY.md](./SECURITY.md): credenciales y límites del retiro de claves.
+
+Es un trabajo colaborativo. Las ramas con nombres de participantes permiten ubicar entregas, pero no bastan para atribuir toda su autoría a una persona. La revisión de octubre de 2026 incorpora documentación, inventario local y ajustes de configuración; no representa una nueva implementación de los componentes históricos de los demás integrantes.
+
+## Límites actuales
+
+- No se validó una ejecución completa Kaggle → Firestore → Power BI. No hay evidencia de ese flujo integrado en `main`.
+- Los identificadores en Firestore se basan en el índice de fila: una nueva carga puede sobrescribir documentos y no elimina registros que desaparecen del CSV.
+- No hay carga por lotes con reintentos, transacciones, control de costos ni un servicio desplegado del monitor.
+- La fuente de datos externa no está fijada a una versión; las copias locales pueden diferir del dataset disponible hoy.
+- Faltan capturas verificadas del dashboard y una descripción acordada del aporte individual antes de destacarlo como proyecto principal.
+- La revocación de las claves publicadas anteriormente y cualquier limpieza del historial siguen siendo trabajos separados.
 

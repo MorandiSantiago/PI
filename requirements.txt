@@ -1,0 +1,7 @@
+# Dependencias directas de los notebooks de main.
+# No es un lockfile ni reconstruye las versiones del entorno de 2025.
+pandas
+firebase-admin
+kagglehub
+watchdog
+jupyterlab
